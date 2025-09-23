@@ -1,0 +1,234 @@
+[
+  {
+    "company": "The Vanguard Group, Inc.",
+    "investment_style": "Based on low-cost passive index investment, replicate the overall market trend through ETFs and mutual funds."
+  },
+  {
+    "company": "State Street Global Advisors (US)",
+    "investment_style": "Conducts index passive investment through SPDR series ETFs (such as SPY), prefers high market value technology and consumer stocks, and focuses on long-term allocation."
+  },
+  {
+    "company": "BlackRock Institutional Trust Company, N.A.",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "Geode Capital Management, L.L.C.",
+    "investment_style": "Quantitative driven, passive and active combination, focusing on niche and highly liquid assets, actively adjusting positions to optimize risk/return ratios."
+  },
+  {
+    "company": "JP Morgan Asset Management",
+    "investment_style": "A hybrid asset management firm that operates both active stock funds and macro driven allocation, with a preference for high-quality fundamental growth stocks and countercyclical targets."
+  },
+  {
+    "company": "State Farm Insurance Companies",
+    "investment_style": "An insurance capital allocation platform with a stable and conservative style, and a preference for large blue chip stocks"
+  },
+  {
+    "company": "Norges Bank Investment Management (NBIM)",
+    "investment_style": "Known for its global diversified allocation, combining active and passive strategies, emphasizing ESG and long-term returns."
+  },
+  {
+    "company": "Morgan Stanley Smith Barney LLC",
+    "investment_style": "Top investment bank transforms into asset management, balancing active stock selection with global macro allocation, and preferring international large enterprises with stable fundamentals and high growth potential."
+  },
+  {
+    "company": "Wellington Management Company, LLP",
+    "investment_style": "Pairs deep multi-disciplinary research resources with independent portfolio teams in a boutique environment, focusing on long-term, active management across asset classes."
+  },
+  {
+    "company": "BlackRock Asset Management Ireland Limited",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "Charles Schwab Investment Management, Inc.",
+    "investment_style": "Offers competitively priced ETFs and mutual funds with a client-centric approach, blending passive indexing with some active strategies for broad market exposure."
+  },
+  {
+    "company": "Northern Trust Investments, Inc.",
+    "investment_style": "With custody and passive index investment as its core, it provides stable index allocation and risk management for institutional clients, with a preference for large technology and consumer blue chips."
+  },
+  {
+    "company": "Legal & General Investment Management Ltd.",
+    "investment_style": "A leading global asset manager providing actively managed strategies and solutions, emphasizing responsible investing and long-term value creation."
+  },
+  {
+    "company": "MFS Investment Management",
+    "investment_style": "Preference for fundamental stock selection, while using macro and quantitative perspectives to hedge risks."
+  },
+  {
+    "company": "BlackRock Investment Management (UK) Ltd.",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "Dimensional Fund Advisors, L.P.",
+    "investment_style": "Systematic, evidence-based investing focusing on dimensions of higher expected returns, with low-cost, diversified portfolios."
+  },
+  {
+    "company": "BofA Global Research (US)",
+    "investment_style": "Combining banking background with asset management, offering proactive strategies and index products, preferring large-cap assets with strong cash flow and macro sensitivity."
+  },
+  {
+    "company": "Wells Fargo Advisors",
+    "investment_style": "A conservative and stable wealth management and bank asset public fund that holds large cap blue chip stocks for a long time, emphasizing stable returns and low volatility."
+  },
+  {
+    "company": "Franklin Advisers, Inc.",
+    "investment_style": "Active management focused on value and income, with expertise in fixed income and equities, emphasizing fundamental research and long-term holding."
+  },
+  {
+    "company": "Columbia Threadneedle Investments (US)",
+    "investment_style": "Dynamic, team-based active management driven by performance and risk awareness, covering equities, fixed income, and alternatives."
+  },
+  {
+    "company": "Fidelity Management & Research Company LLC",
+    "investment_style": "Prefers a hybrid strategy that combines active investment with actively managed funds, emphasizing the balance between fundamental growth and value in stock selection."
+  },
+  {
+    "company": "Parametric Portfolio Associates LLC",
+    "investment_style": "Systematic, rules-based approach to portfolio construction, focusing on tax management, risk control, and customized solutions."
+  },
+  {
+    "company": "Managed Account Advisors LLC",
+    "investment_style": "Provides customized managed account solutions, blending active and passive strategies for wealth management clients."
+  },
+  {
+    "company": "Mellon Investments Corporation",
+    "investment_style": "With a conservative style, holding mature and stable corporate stocks for a long time, balancing the portfolio through indices and active strategies."
+  },
+  {
+    "company": "UBS Financial Services, Inc.",
+    "investment_style": "Combining active and passive strategies, conducting diversified asset layouts through a global macro perspective and fundamental mining."
+  },
+  {
+    "company": "Amundi Asset Management, SAS",
+    "investment_style": "A large European asset management institution that combines index and active strategies, with a preference for stable allocation of global blue chip stocks."
+  },
+  {
+    "company": "Invesco Capital Management LLC",
+    "investment_style": "Offers both active funds and themed index ETFs, preferring diversified growth investments with a focus on thematic allocation."
+  },
+  {
+    "company": "Invesco Advisers, Inc.",
+    "investment_style": "It offers both active funds and technology themed index ETFs (such as QQQ), with a preference for diversified technology growth investments and a focus on thematic and structural allocation."
+  },
+  {
+    "company": "Goldman Sachs Asset Management, L.P.",
+    "investment_style": "Asset management focuses on quantitative and hedging strategies, with a radical mix of styles and a preference for multi strategy allocation of technology growth and structured assets."
+  },
+  {
+    "company": "HSBC Global Asset Management (UK) Limited",
+    "investment_style": "Global multi-asset strategies with a focus on sustainable investing, combining active management, quantitative insights, and risk-aware allocation."
+  },
+  {
+    "company": "BlackRock Financial Management, Inc.",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "Nuveen LLC",
+    "investment_style": "A financial and pension asset management institution that primarily adopts a diversified allocation strategy, combined with active stock selection and index holdings."
+  },
+  {
+    "company": "AllianceBernstein L.P.",
+    "investment_style": "Flexible asset allocation incorporating ESG factors, aiming for long-term sustainable returns using quantitative and fundamental methods."
+  },
+  {
+    "company": "Janus Henderson Investors",
+    "investment_style": "An international active asset management institution that heavily relies on fundamental analysis and industry trend judgment, actively allocating to technology growth stocks."
+  },
+  {
+    "company": "Journey Strategic Wealth LLC",
+    "investment_style": "Boutique wealth management firm focusing on customized, goals-based planning with a mix of active and passive investments."
+  },
+  {
+    "company": "Ninety One UK Limited",
+    "investment_style": "Active management specializing in emerging markets and global equities, emphasizing sustainable investing and long-term value."
+  },
+  {
+    "company": "Grantham Mayo Van Otterloo & Co LLC",
+    "investment_style": "Value-oriented, contrarian investing with a focus on global macro themes and asset allocation."
+  },
+  {
+    "company": "Schweizerische Nationalbank",
+    "investment_style": "Central bank asset management with a passive, diversified approach emphasizing currency reserves and stability."
+  },
+  {
+    "company": "DWS Investments UK Limited",
+    "investment_style": "Active and passive strategies across asset classes, with a focus on sustainable investing and European markets."
+  },
+  {
+    "company": "American Century Investment Management, Inc.",
+    "investment_style": "Disciplined active management focusing on fundamental research, with styles including growth, value, and quantitative."
+  },
+  {
+    "company": "T. Rowe Price Associates, Inc.",
+    "investment_style": "Prefers active growth funds with a strong emphasis on fundamental research, focusing on high-quality growth oriented large cap stocks."
+  },
+  {
+    "company": "JPMorgan Private Bank (United States)",
+    "investment_style": "High-net-worth focused wealth management with customized portfolios blending active strategies and alternative investments."
+  },
+  {
+    "company": "Raymond James & Associates, Inc.",
+    "investment_style": "Wealth management firm emphasizing personalized financial planning, with a mix of active and passive strategies focused on long-term client goals and risk management."
+  },
+  {
+    "company": "Flossbach von Storch AG",
+    "investment_style": "Conservative, value-preserving investment approach focusing on multi-asset portfolios with an emphasis on capital protection."
+  },
+  {
+    "company": "Nordea Funds Oy",
+    "investment_style": "Nordic-focused asset manager offering active and passive funds, with a strong emphasis on sustainable and responsible investing."
+  },
+  {
+    "company": "Morgan Stanley & Co. LLC",
+    "investment_style": "Top investment bank transforms into asset management, balancing active stock selection with global macro allocation, and preferring international large enterprises with stable fundamentals and high growth potential."
+  },
+  {
+    "company": "Sumitomo Mitsui Trust Bank, Limited",
+    "investment_style": "Adopts a global macro and fundamental combination strategy, with a preference for European and American technology leaders to enhance returns and diversify risks."
+  },
+  {
+    "company": "DWS Investment GmbH",
+    "investment_style": "Active management with a focus on sustainable and thematic investing across equities, fixed income, and alternatives."
+  },
+  {
+    "company": "ClearBridge Investments, LLC",
+    "investment_style": "Active equity management focused on long-term growth and value, with an emphasis on ESG integration and fundamental research."
+  },
+  {
+    "company": "BlackRock (Netherlands) B.V.",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "UBS Asset Management (UK) Ltd.",
+    "investment_style": "Combining active and passive strategies, conducting diversified asset layouts through a global macro perspective and fundamental mining."
+  },
+  {
+    "company": "BNY Mellon Asset Management",
+    "investment_style": "With a conservative style, holding mature and stable corporate stocks for a long time, balancing the portfolio through indices and active strategies."
+  },
+  {
+    "company": "BlackRock Investment Management, LLC",
+    "investment_style": "Adopts a long-term passive allocation strategy, focusing on robust targets and high liquidity."
+  },
+  {
+    "company": "Independent Franchise Partners LLP",
+    "investment_style": "Concentrated, high-conviction global equity investing focused on quality companies with sustainable competitive advantages."
+  },
+  {
+    "company": "AQR Capital Management, LLC",
+    "investment_style": "Quantitative, systematic investing applying factor-based strategies across asset classes to capture risk premia."
+  },
+  {
+    "company": "Northern Trust Global Investments",
+    "investment_style": "With custody and passive index investment as its core, it provides stable index allocation and risk management for institutional clients, with a preference for large technology and consumer blue chips."
+  },
+  {
+    "company": "National Pension Service",
+    "investment_style": "Pension system asset management, actively and passively parallel, equipped with high scoring red blue chip technology to stabilize returns."
+  },
+  {
+    "company": "RBC Dominion Securities, Inc.",
+    "investment_style": "Wealth management arm offering a mix of active and passive investment solutions, with a focus on personalized portfolios and Canadian market expertise."
+  }
+]

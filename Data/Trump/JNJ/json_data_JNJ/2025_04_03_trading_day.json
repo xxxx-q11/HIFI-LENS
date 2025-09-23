@@ -1,0 +1,3512 @@
+{
+  "2025-04-03T09:30:00": {
+    "Open": 158.75,
+    "High": 159,
+    "Low": 158.21,
+    "Close": 158.97,
+    "Trading_volume": 7208,
+    "Timestamp": 1743687000,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:30:00"
+  },
+  "2025-04-03T09:31:00": {
+    "Open": 158.89,
+    "High": 159.28,
+    "Low": 158.53,
+    "Close": 159.12,
+    "Trading_volume": 309018,
+    "Timestamp": 1743687060,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:31:00"
+  },
+  "2025-04-03T09:32:00": {
+    "Open": 159.14,
+    "High": 159.96,
+    "Low": 159.14,
+    "Close": 159.37,
+    "Trading_volume": 122559,
+    "Timestamp": 1743687120,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:32:00"
+  },
+  "2025-04-03T09:33:00": {
+    "Open": 159.38,
+    "High": 159.48,
+    "Low": 158.96,
+    "Close": 159.21,
+    "Trading_volume": 80143,
+    "Timestamp": 1743687180,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:33:00"
+  },
+  "2025-04-03T09:34:00": {
+    "Open": 159.175,
+    "High": 159.26,
+    "Low": 158.95,
+    "Close": 159.14,
+    "Trading_volume": 103937,
+    "Timestamp": 1743687240,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:34:00"
+  },
+  "2025-04-03T09:35:00": {
+    "Open": 159.28,
+    "High": 159.34,
+    "Low": 158.82,
+    "Close": 159.16,
+    "Trading_volume": 131633,
+    "Timestamp": 1743687300,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:35:00"
+  },
+  "2025-04-03T09:36:00": {
+    "Open": 159.21,
+    "High": 159.41,
+    "Low": 159.13,
+    "Close": 159.21,
+    "Trading_volume": 60636,
+    "Timestamp": 1743687360,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:36:00"
+  },
+  "2025-04-03T09:37:00": {
+    "Open": 159.2,
+    "High": 159.22,
+    "Low": 158.8,
+    "Close": 159.14,
+    "Trading_volume": 59878,
+    "Timestamp": 1743687420,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:37:00"
+  },
+  "2025-04-03T09:38:00": {
+    "Open": 159.13,
+    "High": 159.13,
+    "Low": 158.63,
+    "Close": 158.655,
+    "Trading_volume": 92798,
+    "Timestamp": 1743687480,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:38:00"
+  },
+  "2025-04-03T09:39:00": {
+    "Open": 158.655,
+    "High": 158.71,
+    "Low": 158.35,
+    "Close": 158.6,
+    "Trading_volume": 60247,
+    "Timestamp": 1743687540,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:39:00"
+  },
+  "2025-04-03T09:40:00": {
+    "Open": 158.6,
+    "High": 158.7,
+    "Low": 158.28,
+    "Close": 158.65,
+    "Trading_volume": 100626,
+    "Timestamp": 1743687600,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:40:00"
+  },
+  "2025-04-03T09:41:00": {
+    "Open": 158.64,
+    "High": 158.79,
+    "Low": 158.39,
+    "Close": 158.56,
+    "Trading_volume": 45838,
+    "Timestamp": 1743687660,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:41:00"
+  },
+  "2025-04-03T09:42:00": {
+    "Open": 158.61,
+    "High": 158.95,
+    "Low": 158.61,
+    "Close": 158.92,
+    "Trading_volume": 26958,
+    "Timestamp": 1743687720,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:42:00"
+  },
+  "2025-04-03T09:43:00": {
+    "Open": 158.85,
+    "High": 158.95,
+    "Low": 158.72,
+    "Close": 158.81,
+    "Trading_volume": 31000,
+    "Timestamp": 1743687780,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:43:00"
+  },
+  "2025-04-03T09:44:00": {
+    "Open": 158.69,
+    "High": 158.88,
+    "Low": 158.64,
+    "Close": 158.7,
+    "Trading_volume": 46009,
+    "Timestamp": 1743687840,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:44:00"
+  },
+  "2025-04-03T09:45:00": {
+    "Open": 158.68,
+    "High": 158.72,
+    "Low": 158.515,
+    "Close": 158.59,
+    "Trading_volume": 38023,
+    "Timestamp": 1743687900,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:45:00"
+  },
+  "2025-04-03T09:46:00": {
+    "Open": 158.55,
+    "High": 158.7,
+    "Low": 158.17,
+    "Close": 158.21,
+    "Trading_volume": 36468,
+    "Timestamp": 1743687960,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:46:00"
+  },
+  "2025-04-03T09:47:00": {
+    "Open": 158.175,
+    "High": 158.36,
+    "Low": 157.95,
+    "Close": 158.15,
+    "Trading_volume": 77674,
+    "Timestamp": 1743688020,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:47:00"
+  },
+  "2025-04-03T09:48:00": {
+    "Open": 158.2,
+    "High": 158.36,
+    "Low": 158.05,
+    "Close": 158.07,
+    "Trading_volume": 31763,
+    "Timestamp": 1743688080,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:48:00"
+  },
+  "2025-04-03T09:49:00": {
+    "Open": 158.11,
+    "High": 158.28,
+    "Low": 158.11,
+    "Close": 158.23,
+    "Trading_volume": 25698,
+    "Timestamp": 1743688140,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:49:00"
+  },
+  "2025-04-03T09:50:00": {
+    "Open": 158.27,
+    "High": 158.57,
+    "Low": 158.27,
+    "Close": 158.29,
+    "Trading_volume": 40897,
+    "Timestamp": 1743688200,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:50:00"
+  },
+  "2025-04-03T09:51:00": {
+    "Open": 158.31,
+    "High": 158.41,
+    "Low": 158.1,
+    "Close": 158.1,
+    "Trading_volume": 23485,
+    "Timestamp": 1743688260,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:51:00"
+  },
+  "2025-04-03T09:52:00": {
+    "Open": 158.04,
+    "High": 158.27,
+    "Low": 158.04,
+    "Close": 158.12,
+    "Trading_volume": 27500,
+    "Timestamp": 1743688320,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:52:00"
+  },
+  "2025-04-03T09:53:00": {
+    "Open": 158.19,
+    "High": 158.3,
+    "Low": 158.075,
+    "Close": 158.1,
+    "Trading_volume": 50735,
+    "Timestamp": 1743688380,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:53:00"
+  },
+  "2025-04-03T09:54:00": {
+    "Open": 158,
+    "High": 158,
+    "Low": 157.69,
+    "Close": 157.78,
+    "Trading_volume": 37042,
+    "Timestamp": 1743688440,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:54:00"
+  },
+  "2025-04-03T09:55:00": {
+    "Open": 157.805,
+    "High": 158.13,
+    "Low": 157.805,
+    "Close": 158.1,
+    "Trading_volume": 88807,
+    "Timestamp": 1743688500,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:55:00"
+  },
+  "2025-04-03T09:56:00": {
+    "Open": 158.12,
+    "High": 158.31,
+    "Low": 158.12,
+    "Close": 158.3,
+    "Trading_volume": 43837,
+    "Timestamp": 1743688560,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:56:00"
+  },
+  "2025-04-03T09:57:00": {
+    "Open": 158.34,
+    "High": 158.35,
+    "Low": 157.765,
+    "Close": 157.765,
+    "Trading_volume": 40155,
+    "Timestamp": 1743688620,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:57:00"
+  },
+  "2025-04-03T09:58:00": {
+    "Open": 157.79,
+    "High": 157.91,
+    "Low": 157.71,
+    "Close": 157.91,
+    "Trading_volume": 41444,
+    "Timestamp": 1743688680,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:58:00"
+  },
+  "2025-04-03T09:59:00": {
+    "Open": 157.91,
+    "High": 158,
+    "Low": 157.8,
+    "Close": 157.8,
+    "Trading_volume": 52441,
+    "Timestamp": 1743688740,
+    "Eastern_United_States_Timestamp": "2025-04-03T09:59:00"
+  },
+  "2025-04-03T10:00:00": {
+    "Open": 157.76,
+    "High": 158.03,
+    "Low": 157.69,
+    "Close": 157.71,
+    "Trading_volume": 43281,
+    "Timestamp": 1743688800,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:00:00"
+  },
+  "2025-04-03T10:01:00": {
+    "Open": 157.725,
+    "High": 157.95,
+    "Low": 157.725,
+    "Close": 157.855,
+    "Trading_volume": 25082,
+    "Timestamp": 1743688860,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:01:00"
+  },
+  "2025-04-03T10:02:00": {
+    "Open": 157.87,
+    "High": 157.88,
+    "Low": 157.59,
+    "Close": 157.69,
+    "Trading_volume": 27448,
+    "Timestamp": 1743688920,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:02:00"
+  },
+  "2025-04-03T10:03:00": {
+    "Open": 157.685,
+    "High": 157.8,
+    "Low": 157.61,
+    "Close": 157.65,
+    "Trading_volume": 25087,
+    "Timestamp": 1743688980,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:03:00"
+  },
+  "2025-04-03T10:04:00": {
+    "Open": 157.66,
+    "High": 157.66,
+    "Low": 157.48,
+    "Close": 157.64,
+    "Trading_volume": 29821,
+    "Timestamp": 1743689040,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:04:00"
+  },
+  "2025-04-03T10:05:00": {
+    "Open": 157.68,
+    "High": 157.78,
+    "Low": 157.63,
+    "Close": 157.71,
+    "Trading_volume": 32492,
+    "Timestamp": 1743689100,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:05:00"
+  },
+  "2025-04-03T10:06:00": {
+    "Open": 157.74,
+    "High": 157.99,
+    "Low": 157.74,
+    "Close": 157.86,
+    "Trading_volume": 33366,
+    "Timestamp": 1743689160,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:06:00"
+  },
+  "2025-04-03T10:07:00": {
+    "Open": 157.84,
+    "High": 157.85,
+    "Low": 157.72,
+    "Close": 157.76,
+    "Trading_volume": 33953,
+    "Timestamp": 1743689220,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:07:00"
+  },
+  "2025-04-03T10:08:00": {
+    "Open": 157.75,
+    "High": 157.84,
+    "Low": 157.72,
+    "Close": 157.84,
+    "Trading_volume": 38359,
+    "Timestamp": 1743689280,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:08:00"
+  },
+  "2025-04-03T10:09:00": {
+    "Open": 157.85,
+    "High": 158.06,
+    "Low": 157.74,
+    "Close": 158.06,
+    "Trading_volume": 49918,
+    "Timestamp": 1743689340,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:09:00"
+  },
+  "2025-04-03T10:10:00": {
+    "Open": 158.07,
+    "High": 158.35,
+    "Low": 158.055,
+    "Close": 158.34,
+    "Trading_volume": 66310,
+    "Timestamp": 1743689400,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:10:00"
+  },
+  "2025-04-03T10:11:00": {
+    "Open": 158.33,
+    "High": 158.44,
+    "Low": 158.1,
+    "Close": 158.12,
+    "Trading_volume": 55100,
+    "Timestamp": 1743689460,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:11:00"
+  },
+  "2025-04-03T10:12:00": {
+    "Open": 158.08,
+    "High": 158.14,
+    "Low": 157.9,
+    "Close": 158.14,
+    "Trading_volume": 21823,
+    "Timestamp": 1743689520,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:12:00"
+  },
+  "2025-04-03T10:13:00": {
+    "Open": 158.125,
+    "High": 158.27,
+    "Low": 158.07,
+    "Close": 158.16,
+    "Trading_volume": 17602,
+    "Timestamp": 1743689580,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:13:00"
+  },
+  "2025-04-03T10:14:00": {
+    "Open": 158.15,
+    "High": 158.22,
+    "Low": 158.1,
+    "Close": 158.16,
+    "Trading_volume": 42310,
+    "Timestamp": 1743689640,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:14:00"
+  },
+  "2025-04-03T10:15:00": {
+    "Open": 158.13,
+    "High": 158.25,
+    "Low": 158.02,
+    "Close": 158.235,
+    "Trading_volume": 19688,
+    "Timestamp": 1743689700,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:15:00"
+  },
+  "2025-04-03T10:16:00": {
+    "Open": 158.225,
+    "High": 158.225,
+    "Low": 158.08,
+    "Close": 158.15,
+    "Trading_volume": 29668,
+    "Timestamp": 1743689760,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:16:00"
+  },
+  "2025-04-03T10:17:00": {
+    "Open": 158.135,
+    "High": 158.305,
+    "Low": 158.06,
+    "Close": 158.22,
+    "Trading_volume": 44393,
+    "Timestamp": 1743689820,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:17:00"
+  },
+  "2025-04-03T10:18:00": {
+    "Open": 158.21,
+    "High": 158.35,
+    "Low": 158.13,
+    "Close": 158.33,
+    "Trading_volume": 32494,
+    "Timestamp": 1743689880,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:18:00"
+  },
+  "2025-04-03T10:19:00": {
+    "Open": 158.37,
+    "High": 158.38,
+    "Low": 158.25,
+    "Close": 158.34,
+    "Trading_volume": 33131,
+    "Timestamp": 1743689940,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:19:00"
+  },
+  "2025-04-03T10:20:00": {
+    "Open": 158.36,
+    "High": 158.43,
+    "Low": 158.27,
+    "Close": 158.385,
+    "Trading_volume": 13749,
+    "Timestamp": 1743690000,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:20:00"
+  },
+  "2025-04-03T10:21:00": {
+    "Open": 158.34,
+    "High": 158.37,
+    "Low": 158.175,
+    "Close": 158.22,
+    "Trading_volume": 21076,
+    "Timestamp": 1743690060,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:21:00"
+  },
+  "2025-04-03T10:22:00": {
+    "Open": 158.22,
+    "High": 158.33,
+    "Low": 158.22,
+    "Close": 158.26,
+    "Trading_volume": 20329,
+    "Timestamp": 1743690120,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:22:00"
+  },
+  "2025-04-03T10:23:00": {
+    "Open": 158.33,
+    "High": 158.39,
+    "Low": 158.3,
+    "Close": 158.37,
+    "Trading_volume": 25427,
+    "Timestamp": 1743690180,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:23:00"
+  },
+  "2025-04-03T10:24:00": {
+    "Open": 158.38,
+    "High": 158.42,
+    "Low": 158.3,
+    "Close": 158.415,
+    "Trading_volume": 20615,
+    "Timestamp": 1743690240,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:24:00"
+  },
+  "2025-04-03T10:25:00": {
+    "Open": 158.415,
+    "High": 158.475,
+    "Low": 158.33,
+    "Close": 158.33,
+    "Trading_volume": 25185,
+    "Timestamp": 1743690300,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:25:00"
+  },
+  "2025-04-03T10:26:00": {
+    "Open": 158.31,
+    "High": 158.31,
+    "Low": 158.06,
+    "Close": 158.09,
+    "Trading_volume": 22789,
+    "Timestamp": 1743690360,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:26:00"
+  },
+  "2025-04-03T10:27:00": {
+    "Open": 158.14,
+    "High": 158.19,
+    "Low": 158.09,
+    "Close": 158.12,
+    "Trading_volume": 26347,
+    "Timestamp": 1743690420,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:27:00"
+  },
+  "2025-04-03T10:28:00": {
+    "Open": 158.16,
+    "High": 158.245,
+    "Low": 158.1,
+    "Close": 158.245,
+    "Trading_volume": 11414,
+    "Timestamp": 1743690480,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:28:00"
+  },
+  "2025-04-03T10:29:00": {
+    "Open": 158.2,
+    "High": 158.38,
+    "Low": 158.195,
+    "Close": 158.29,
+    "Trading_volume": 25880,
+    "Timestamp": 1743690540,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:29:00"
+  },
+  "2025-04-03T10:30:00": {
+    "Open": 158.28,
+    "High": 158.4,
+    "Low": 158.18,
+    "Close": 158.4,
+    "Trading_volume": 30130,
+    "Timestamp": 1743690600,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:30:00"
+  },
+  "2025-04-03T10:31:00": {
+    "Open": 158.42,
+    "High": 158.525,
+    "Low": 158.37,
+    "Close": 158.41,
+    "Trading_volume": 28299,
+    "Timestamp": 1743690660,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:31:00"
+  },
+  "2025-04-03T10:32:00": {
+    "Open": 158.395,
+    "High": 158.57,
+    "Low": 158.37,
+    "Close": 158.45,
+    "Trading_volume": 33270,
+    "Timestamp": 1743690720,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:32:00"
+  },
+  "2025-04-03T10:33:00": {
+    "Open": 158.43,
+    "High": 158.49,
+    "Low": 158.37,
+    "Close": 158.48,
+    "Trading_volume": 22827,
+    "Timestamp": 1743690780,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:33:00"
+  },
+  "2025-04-03T10:34:00": {
+    "Open": 158.47,
+    "High": 158.635,
+    "Low": 158.47,
+    "Close": 158.6,
+    "Trading_volume": 31556,
+    "Timestamp": 1743690840,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:34:00"
+  },
+  "2025-04-03T10:35:00": {
+    "Open": 158.605,
+    "High": 158.83,
+    "Low": 158.585,
+    "Close": 158.83,
+    "Trading_volume": 28094,
+    "Timestamp": 1743690900,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:35:00"
+  },
+  "2025-04-03T10:36:00": {
+    "Open": 158.825,
+    "High": 159.02,
+    "Low": 158.825,
+    "Close": 158.895,
+    "Trading_volume": 37552,
+    "Timestamp": 1743690960,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:36:00"
+  },
+  "2025-04-03T10:37:00": {
+    "Open": 158.89,
+    "High": 159.09,
+    "Low": 158.89,
+    "Close": 159.04,
+    "Trading_volume": 35266,
+    "Timestamp": 1743691020,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:37:00"
+  },
+  "2025-04-03T10:38:00": {
+    "Open": 159.06,
+    "High": 159.27,
+    "Low": 159.03,
+    "Close": 159.25,
+    "Trading_volume": 40566,
+    "Timestamp": 1743691080,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:38:00"
+  },
+  "2025-04-03T10:39:00": {
+    "Open": 159.25,
+    "High": 159.25,
+    "Low": 159.07,
+    "Close": 159.09,
+    "Trading_volume": 34836,
+    "Timestamp": 1743691140,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:39:00"
+  },
+  "2025-04-03T10:40:00": {
+    "Open": 159.07,
+    "High": 159.35,
+    "Low": 159.04,
+    "Close": 159.16,
+    "Trading_volume": 43985,
+    "Timestamp": 1743691200,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:40:00"
+  },
+  "2025-04-03T10:41:00": {
+    "Open": 159.155,
+    "High": 159.17,
+    "Low": 159.03,
+    "Close": 159.15,
+    "Trading_volume": 41121,
+    "Timestamp": 1743691260,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:41:00"
+  },
+  "2025-04-03T10:42:00": {
+    "Open": 159.14,
+    "High": 159.42,
+    "Low": 159.14,
+    "Close": 159.34,
+    "Trading_volume": 47668,
+    "Timestamp": 1743691320,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:42:00"
+  },
+  "2025-04-03T10:43:00": {
+    "Open": 159.32,
+    "High": 159.34,
+    "Low": 159.18,
+    "Close": 159.19,
+    "Trading_volume": 27203,
+    "Timestamp": 1743691380,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:43:00"
+  },
+  "2025-04-03T10:44:00": {
+    "Open": 159.2,
+    "High": 159.405,
+    "Low": 159.17,
+    "Close": 159.31,
+    "Trading_volume": 46249,
+    "Timestamp": 1743691440,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:44:00"
+  },
+  "2025-04-03T10:45:00": {
+    "Open": 159.29,
+    "High": 159.29,
+    "Low": 159.19,
+    "Close": 159.23,
+    "Trading_volume": 29745,
+    "Timestamp": 1743691500,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:45:00"
+  },
+  "2025-04-03T10:46:00": {
+    "Open": 159.27,
+    "High": 159.37,
+    "Low": 159.17,
+    "Close": 159.29,
+    "Trading_volume": 41510,
+    "Timestamp": 1743691560,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:46:00"
+  },
+  "2025-04-03T10:47:00": {
+    "Open": 159.32,
+    "High": 159.59,
+    "Low": 159.29,
+    "Close": 159.51,
+    "Trading_volume": 101780,
+    "Timestamp": 1743691620,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:47:00"
+  },
+  "2025-04-03T10:48:00": {
+    "Open": 159.54,
+    "High": 159.69,
+    "Low": 159.48,
+    "Close": 159.625,
+    "Trading_volume": 24243,
+    "Timestamp": 1743691680,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:48:00"
+  },
+  "2025-04-03T10:49:00": {
+    "Open": 159.6,
+    "High": 159.63,
+    "Low": 159.52,
+    "Close": 159.6,
+    "Trading_volume": 26485,
+    "Timestamp": 1743691740,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:49:00"
+  },
+  "2025-04-03T10:50:00": {
+    "Open": 159.595,
+    "High": 159.71,
+    "Low": 159.58,
+    "Close": 159.71,
+    "Trading_volume": 43239,
+    "Timestamp": 1743691800,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:50:00"
+  },
+  "2025-04-03T10:51:00": {
+    "Open": 159.72,
+    "High": 159.76,
+    "Low": 159.66,
+    "Close": 159.75,
+    "Trading_volume": 31895,
+    "Timestamp": 1743691860,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:51:00"
+  },
+  "2025-04-03T10:52:00": {
+    "Open": 159.76,
+    "High": 159.9,
+    "Low": 159.75,
+    "Close": 159.81,
+    "Trading_volume": 43755,
+    "Timestamp": 1743691920,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:52:00"
+  },
+  "2025-04-03T10:53:00": {
+    "Open": 159.81,
+    "High": 159.82,
+    "Low": 159.675,
+    "Close": 159.71,
+    "Trading_volume": 24725,
+    "Timestamp": 1743691980,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:53:00"
+  },
+  "2025-04-03T10:54:00": {
+    "Open": 159.76,
+    "High": 159.77,
+    "Low": 159.61,
+    "Close": 159.72,
+    "Trading_volume": 30084,
+    "Timestamp": 1743692040,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:54:00"
+  },
+  "2025-04-03T10:55:00": {
+    "Open": 159.72,
+    "High": 159.92,
+    "Low": 159.56,
+    "Close": 159.56,
+    "Trading_volume": 126881,
+    "Timestamp": 1743692100,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:55:00"
+  },
+  "2025-04-03T10:56:00": {
+    "Open": 159.55,
+    "High": 159.92,
+    "Low": 159.55,
+    "Close": 159.89,
+    "Trading_volume": 82847,
+    "Timestamp": 1743692160,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:56:00"
+  },
+  "2025-04-03T10:57:00": {
+    "Open": 159.87,
+    "High": 160.11,
+    "Low": 159.8,
+    "Close": 160.1,
+    "Trading_volume": 74287,
+    "Timestamp": 1743692220,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:57:00"
+  },
+  "2025-04-03T10:58:00": {
+    "Open": 160.08,
+    "High": 160.09,
+    "Low": 159.94,
+    "Close": 159.97,
+    "Trading_volume": 51659,
+    "Timestamp": 1743692280,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:58:00"
+  },
+  "2025-04-03T10:59:00": {
+    "Open": 159.94,
+    "High": 160.06,
+    "Low": 159.81,
+    "Close": 159.81,
+    "Trading_volume": 37558,
+    "Timestamp": 1743692340,
+    "Eastern_United_States_Timestamp": "2025-04-03T10:59:00"
+  },
+  "2025-04-03T11:00:00": {
+    "Open": 159.75,
+    "High": 160.05,
+    "Low": 159.75,
+    "Close": 160.05,
+    "Trading_volume": 32900,
+    "Timestamp": 1743692400,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:00:00"
+  },
+  "2025-04-03T11:01:00": {
+    "Open": 160.04,
+    "High": 160.04,
+    "Low": 159.9,
+    "Close": 159.96,
+    "Trading_volume": 28126,
+    "Timestamp": 1743692460,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:01:00"
+  },
+  "2025-04-03T11:02:00": {
+    "Open": 159.96,
+    "High": 159.97,
+    "Low": 159.78,
+    "Close": 159.855,
+    "Trading_volume": 28835,
+    "Timestamp": 1743692520,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:02:00"
+  },
+  "2025-04-03T11:03:00": {
+    "Open": 159.85,
+    "High": 160.04,
+    "Low": 159.83,
+    "Close": 159.94,
+    "Trading_volume": 21887,
+    "Timestamp": 1743692580,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:03:00"
+  },
+  "2025-04-03T11:04:00": {
+    "Open": 159.915,
+    "High": 160,
+    "Low": 159.9,
+    "Close": 160,
+    "Trading_volume": 23984,
+    "Timestamp": 1743692640,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:04:00"
+  },
+  "2025-04-03T11:05:00": {
+    "Open": 159.965,
+    "High": 159.965,
+    "Low": 159.815,
+    "Close": 159.86,
+    "Trading_volume": 18448,
+    "Timestamp": 1743692700,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:05:00"
+  },
+  "2025-04-03T11:06:00": {
+    "Open": 159.88,
+    "High": 159.885,
+    "Low": 159.74,
+    "Close": 159.87,
+    "Trading_volume": 24114,
+    "Timestamp": 1743692760,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:06:00"
+  },
+  "2025-04-03T11:07:00": {
+    "Open": 159.86,
+    "High": 160.15,
+    "Low": 159.84,
+    "Close": 160.14,
+    "Trading_volume": 38012,
+    "Timestamp": 1743692820,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:07:00"
+  },
+  "2025-04-03T11:08:00": {
+    "Open": 160.15,
+    "High": 160.2,
+    "Low": 160.02,
+    "Close": 160.02,
+    "Trading_volume": 29374,
+    "Timestamp": 1743692880,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:08:00"
+  },
+  "2025-04-03T11:09:00": {
+    "Open": 160.025,
+    "High": 160.16,
+    "Low": 160,
+    "Close": 160.14,
+    "Trading_volume": 28776,
+    "Timestamp": 1743692940,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:09:00"
+  },
+  "2025-04-03T11:10:00": {
+    "Open": 160.12,
+    "High": 160.15,
+    "Low": 160.03,
+    "Close": 160.15,
+    "Trading_volume": 16402,
+    "Timestamp": 1743693000,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:10:00"
+  },
+  "2025-04-03T11:11:00": {
+    "Open": 160.1,
+    "High": 160.14,
+    "Low": 160.04,
+    "Close": 160.14,
+    "Trading_volume": 11242,
+    "Timestamp": 1743693060,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:11:00"
+  },
+  "2025-04-03T11:12:00": {
+    "Open": 160.07,
+    "High": 160.12,
+    "Low": 159.84,
+    "Close": 159.84,
+    "Trading_volume": 38887,
+    "Timestamp": 1743693120,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:12:00"
+  },
+  "2025-04-03T11:13:00": {
+    "Open": 159.815,
+    "High": 159.99,
+    "Low": 159.775,
+    "Close": 159.95,
+    "Trading_volume": 24645,
+    "Timestamp": 1743693180,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:13:00"
+  },
+  "2025-04-03T11:14:00": {
+    "Open": 159.97,
+    "High": 160.01,
+    "Low": 159.92,
+    "Close": 159.92,
+    "Trading_volume": 23719,
+    "Timestamp": 1743693240,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:14:00"
+  },
+  "2025-04-03T11:15:00": {
+    "Open": 159.93,
+    "High": 159.95,
+    "Low": 159.79,
+    "Close": 159.83,
+    "Trading_volume": 20629,
+    "Timestamp": 1743693300,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:15:00"
+  },
+  "2025-04-03T11:16:00": {
+    "Open": 159.85,
+    "High": 160.02,
+    "Low": 159.83,
+    "Close": 159.99,
+    "Trading_volume": 45625,
+    "Timestamp": 1743693360,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:16:00"
+  },
+  "2025-04-03T11:17:00": {
+    "Open": 159.95,
+    "High": 159.97,
+    "Low": 159.68,
+    "Close": 159.69,
+    "Trading_volume": 26263,
+    "Timestamp": 1743693420,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:17:00"
+  },
+  "2025-04-03T11:18:00": {
+    "Open": 159.73,
+    "High": 159.81,
+    "Low": 159.62,
+    "Close": 159.72,
+    "Trading_volume": 18196,
+    "Timestamp": 1743693480,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:18:00"
+  },
+  "2025-04-03T11:19:00": {
+    "Open": 159.73,
+    "High": 159.88,
+    "Low": 159.72,
+    "Close": 159.86,
+    "Trading_volume": 32457,
+    "Timestamp": 1743693540,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:19:00"
+  },
+  "2025-04-03T11:20:00": {
+    "Open": 159.85,
+    "High": 160.07,
+    "Low": 159.85,
+    "Close": 159.98,
+    "Trading_volume": 25017,
+    "Timestamp": 1743693600,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:20:00"
+  },
+  "2025-04-03T11:21:00": {
+    "Open": 159.97,
+    "High": 159.99,
+    "Low": 159.85,
+    "Close": 159.9,
+    "Trading_volume": 19106,
+    "Timestamp": 1743693660,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:21:00"
+  },
+  "2025-04-03T11:22:00": {
+    "Open": 159.88,
+    "High": 160.04,
+    "Low": 159.88,
+    "Close": 160.04,
+    "Trading_volume": 16122,
+    "Timestamp": 1743693720,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:22:00"
+  },
+  "2025-04-03T11:23:00": {
+    "Open": 160,
+    "High": 160.05,
+    "Low": 159.98,
+    "Close": 160.05,
+    "Trading_volume": 19183,
+    "Timestamp": 1743693780,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:23:00"
+  },
+  "2025-04-03T11:24:00": {
+    "Open": 160.06,
+    "High": 160.12,
+    "Low": 160.06,
+    "Close": 160.09,
+    "Trading_volume": 23693,
+    "Timestamp": 1743693840,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:24:00"
+  },
+  "2025-04-03T11:25:00": {
+    "Open": 160.07,
+    "High": 160.1,
+    "Low": 159.915,
+    "Close": 160.06,
+    "Trading_volume": 44508,
+    "Timestamp": 1743693900,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:25:00"
+  },
+  "2025-04-03T11:26:00": {
+    "Open": 160.04,
+    "High": 160.18,
+    "Low": 160,
+    "Close": 160.13,
+    "Trading_volume": 39542,
+    "Timestamp": 1743693960,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:26:00"
+  },
+  "2025-04-03T11:27:00": {
+    "Open": 160.13,
+    "High": 160.33,
+    "Low": 160.13,
+    "Close": 160.16,
+    "Trading_volume": 58280,
+    "Timestamp": 1743694020,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:27:00"
+  },
+  "2025-04-03T11:28:00": {
+    "Open": 160.13,
+    "High": 160.17,
+    "Low": 159.97,
+    "Close": 160,
+    "Trading_volume": 23499,
+    "Timestamp": 1743694080,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:28:00"
+  },
+  "2025-04-03T11:29:00": {
+    "Open": 160.01,
+    "High": 160.08,
+    "Low": 159.99,
+    "Close": 160.08,
+    "Trading_volume": 26707,
+    "Timestamp": 1743694140,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:29:00"
+  },
+  "2025-04-03T11:30:00": {
+    "Open": 160.1,
+    "High": 160.14,
+    "Low": 159.92,
+    "Close": 160.12,
+    "Trading_volume": 23363,
+    "Timestamp": 1743694200,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:30:00"
+  },
+  "2025-04-03T11:31:00": {
+    "Open": 160.16,
+    "High": 160.2,
+    "Low": 159.97,
+    "Close": 160.01,
+    "Trading_volume": 35584,
+    "Timestamp": 1743694260,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:31:00"
+  },
+  "2025-04-03T11:32:00": {
+    "Open": 160.02,
+    "High": 160.02,
+    "Low": 159.87,
+    "Close": 160.01,
+    "Trading_volume": 39498,
+    "Timestamp": 1743694320,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:32:00"
+  },
+  "2025-04-03T11:33:00": {
+    "Open": 160.01,
+    "High": 160.12,
+    "Low": 159.98,
+    "Close": 159.99,
+    "Trading_volume": 31342,
+    "Timestamp": 1743694380,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:33:00"
+  },
+  "2025-04-03T11:34:00": {
+    "Open": 159.99,
+    "High": 160.05,
+    "Low": 159.82,
+    "Close": 159.86,
+    "Trading_volume": 27236,
+    "Timestamp": 1743694440,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:34:00"
+  },
+  "2025-04-03T11:35:00": {
+    "Open": 159.83,
+    "High": 160.1,
+    "Low": 159.83,
+    "Close": 160.03,
+    "Trading_volume": 29831,
+    "Timestamp": 1743694500,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:35:00"
+  },
+  "2025-04-03T11:36:00": {
+    "Open": 160.02,
+    "High": 160.21,
+    "Low": 160.01,
+    "Close": 160.13,
+    "Trading_volume": 29297,
+    "Timestamp": 1743694560,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:36:00"
+  },
+  "2025-04-03T11:37:00": {
+    "Open": 160.11,
+    "High": 160.14,
+    "Low": 159.96,
+    "Close": 159.97,
+    "Trading_volume": 33925,
+    "Timestamp": 1743694620,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:37:00"
+  },
+  "2025-04-03T11:38:00": {
+    "Open": 159.95,
+    "High": 160.16,
+    "Low": 159.95,
+    "Close": 160.08,
+    "Trading_volume": 38430,
+    "Timestamp": 1743694680,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:38:00"
+  },
+  "2025-04-03T11:39:00": {
+    "Open": 160.06,
+    "High": 160.06,
+    "Low": 159.97,
+    "Close": 159.98,
+    "Trading_volume": 19645,
+    "Timestamp": 1743694740,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:39:00"
+  },
+  "2025-04-03T11:40:00": {
+    "Open": 159.98,
+    "High": 160,
+    "Low": 159.73,
+    "Close": 159.74,
+    "Trading_volume": 16507,
+    "Timestamp": 1743694800,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:40:00"
+  },
+  "2025-04-03T11:41:00": {
+    "Open": 159.77,
+    "High": 159.9,
+    "Low": 159.77,
+    "Close": 159.82,
+    "Trading_volume": 21016,
+    "Timestamp": 1743694860,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:41:00"
+  },
+  "2025-04-03T11:42:00": {
+    "Open": 159.86,
+    "High": 159.91,
+    "Low": 159.79,
+    "Close": 159.85,
+    "Trading_volume": 17450,
+    "Timestamp": 1743694920,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:42:00"
+  },
+  "2025-04-03T11:43:00": {
+    "Open": 159.86,
+    "High": 159.86,
+    "Low": 159.74,
+    "Close": 159.76,
+    "Trading_volume": 15757,
+    "Timestamp": 1743694980,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:43:00"
+  },
+  "2025-04-03T11:44:00": {
+    "Open": 159.83,
+    "High": 159.85,
+    "Low": 159.78,
+    "Close": 159.78,
+    "Trading_volume": 14327,
+    "Timestamp": 1743695040,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:44:00"
+  },
+  "2025-04-03T11:45:00": {
+    "Open": 159.77,
+    "High": 159.865,
+    "Low": 159.74,
+    "Close": 159.835,
+    "Trading_volume": 52082,
+    "Timestamp": 1743695100,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:45:00"
+  },
+  "2025-04-03T11:46:00": {
+    "Open": 159.795,
+    "High": 159.94,
+    "Low": 159.77,
+    "Close": 159.9,
+    "Trading_volume": 20507,
+    "Timestamp": 1743695160,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:46:00"
+  },
+  "2025-04-03T11:47:00": {
+    "Open": 159.89,
+    "High": 159.915,
+    "Low": 159.85,
+    "Close": 159.88,
+    "Trading_volume": 12787,
+    "Timestamp": 1743695220,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:47:00"
+  },
+  "2025-04-03T11:48:00": {
+    "Open": 159.88,
+    "High": 159.88,
+    "Low": 159.78,
+    "Close": 159.83,
+    "Trading_volume": 27937,
+    "Timestamp": 1743695280,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:48:00"
+  },
+  "2025-04-03T11:49:00": {
+    "Open": 159.85,
+    "High": 159.87,
+    "Low": 159.82,
+    "Close": 159.86,
+    "Trading_volume": 11510,
+    "Timestamp": 1743695340,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:49:00"
+  },
+  "2025-04-03T11:50:00": {
+    "Open": 159.85,
+    "High": 159.865,
+    "Low": 159.73,
+    "Close": 159.76,
+    "Trading_volume": 50112,
+    "Timestamp": 1743695400,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:50:00"
+  },
+  "2025-04-03T11:51:00": {
+    "Open": 159.73,
+    "High": 159.74,
+    "Low": 159.6,
+    "Close": 159.725,
+    "Trading_volume": 35821,
+    "Timestamp": 1743695460,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:51:00"
+  },
+  "2025-04-03T11:52:00": {
+    "Open": 159.73,
+    "High": 159.88,
+    "Low": 159.71,
+    "Close": 159.835,
+    "Trading_volume": 16377,
+    "Timestamp": 1743695520,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:52:00"
+  },
+  "2025-04-03T11:53:00": {
+    "Open": 159.85,
+    "High": 159.99,
+    "Low": 159.85,
+    "Close": 159.9,
+    "Trading_volume": 34602,
+    "Timestamp": 1743695580,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:53:00"
+  },
+  "2025-04-03T11:54:00": {
+    "Open": 159.915,
+    "High": 159.945,
+    "Low": 159.815,
+    "Close": 159.88,
+    "Trading_volume": 11466,
+    "Timestamp": 1743695640,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:54:00"
+  },
+  "2025-04-03T11:55:00": {
+    "Open": 159.82,
+    "High": 159.875,
+    "Low": 159.78,
+    "Close": 159.835,
+    "Trading_volume": 15063,
+    "Timestamp": 1743695700,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:55:00"
+  },
+  "2025-04-03T11:56:00": {
+    "Open": 159.83,
+    "High": 159.83,
+    "Low": 159.63,
+    "Close": 159.63,
+    "Trading_volume": 15531,
+    "Timestamp": 1743695760,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:56:00"
+  },
+  "2025-04-03T11:57:00": {
+    "Open": 159.64,
+    "High": 159.83,
+    "Low": 159.64,
+    "Close": 159.83,
+    "Trading_volume": 18200,
+    "Timestamp": 1743695820,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:57:00"
+  },
+  "2025-04-03T11:58:00": {
+    "Open": 159.82,
+    "High": 159.91,
+    "Low": 159.78,
+    "Close": 159.83,
+    "Trading_volume": 26512,
+    "Timestamp": 1743695880,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:58:00"
+  },
+  "2025-04-03T11:59:00": {
+    "Open": 159.86,
+    "High": 159.91,
+    "Low": 159.83,
+    "Close": 159.905,
+    "Trading_volume": 13455,
+    "Timestamp": 1743695940,
+    "Eastern_United_States_Timestamp": "2025-04-03T11:59:00"
+  },
+  "2025-04-03T12:00:00": {
+    "Open": 159.92,
+    "High": 160.03,
+    "Low": 159.88,
+    "Close": 159.97,
+    "Trading_volume": 14198,
+    "Timestamp": 1743696000,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:00:00"
+  },
+  "2025-04-03T12:01:00": {
+    "Open": 159.97,
+    "High": 159.97,
+    "Low": 159.77,
+    "Close": 159.87,
+    "Trading_volume": 14820,
+    "Timestamp": 1743696060,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:01:00"
+  },
+  "2025-04-03T12:02:00": {
+    "Open": 159.88,
+    "High": 160.035,
+    "Low": 159.88,
+    "Close": 160.01,
+    "Trading_volume": 18240,
+    "Timestamp": 1743696120,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:02:00"
+  },
+  "2025-04-03T12:03:00": {
+    "Open": 160.005,
+    "High": 160.05,
+    "Low": 159.89,
+    "Close": 159.9,
+    "Trading_volume": 19840,
+    "Timestamp": 1743696180,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:03:00"
+  },
+  "2025-04-03T12:04:00": {
+    "Open": 159.92,
+    "High": 160.01,
+    "Low": 159.92,
+    "Close": 160.005,
+    "Trading_volume": 9078,
+    "Timestamp": 1743696240,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:04:00"
+  },
+  "2025-04-03T12:05:00": {
+    "Open": 160.01,
+    "High": 160.12,
+    "Low": 160.01,
+    "Close": 160.12,
+    "Trading_volume": 8350,
+    "Timestamp": 1743696300,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:05:00"
+  },
+  "2025-04-03T12:06:00": {
+    "Open": 160.12,
+    "High": 160.12,
+    "Low": 160.04,
+    "Close": 160.07,
+    "Trading_volume": 8972,
+    "Timestamp": 1743696360,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:06:00"
+  },
+  "2025-04-03T12:07:00": {
+    "Open": 160.05,
+    "High": 160.08,
+    "Low": 160,
+    "Close": 160.08,
+    "Trading_volume": 15114,
+    "Timestamp": 1743696420,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:07:00"
+  },
+  "2025-04-03T12:08:00": {
+    "Open": 160.06,
+    "High": 160.06,
+    "Low": 159.97,
+    "Close": 159.99,
+    "Trading_volume": 16076,
+    "Timestamp": 1743696480,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:08:00"
+  },
+  "2025-04-03T12:09:00": {
+    "Open": 159.985,
+    "High": 160.1,
+    "Low": 159.96,
+    "Close": 160.08,
+    "Trading_volume": 16503,
+    "Timestamp": 1743696540,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:09:00"
+  },
+  "2025-04-03T12:10:00": {
+    "Open": 160.055,
+    "High": 160.2,
+    "Low": 160.055,
+    "Close": 160.2,
+    "Trading_volume": 12797,
+    "Timestamp": 1743696600,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:10:00"
+  },
+  "2025-04-03T12:11:00": {
+    "Open": 160.23,
+    "High": 160.3,
+    "Low": 160.22,
+    "Close": 160.28,
+    "Trading_volume": 14539,
+    "Timestamp": 1743696660,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:11:00"
+  },
+  "2025-04-03T12:12:00": {
+    "Open": 160.28,
+    "High": 160.3,
+    "Low": 160.19,
+    "Close": 160.21,
+    "Trading_volume": 47321,
+    "Timestamp": 1743696720,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:12:00"
+  },
+  "2025-04-03T12:13:00": {
+    "Open": 160.21,
+    "High": 160.29,
+    "Low": 160.14,
+    "Close": 160.27,
+    "Trading_volume": 23920,
+    "Timestamp": 1743696780,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:13:00"
+  },
+  "2025-04-03T12:14:00": {
+    "Open": 160.28,
+    "High": 160.32,
+    "Low": 160.27,
+    "Close": 160.29,
+    "Trading_volume": 14609,
+    "Timestamp": 1743696840,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:14:00"
+  },
+  "2025-04-03T12:15:00": {
+    "Open": 160.28,
+    "High": 160.29,
+    "Low": 160.25,
+    "Close": 160.27,
+    "Trading_volume": 13804,
+    "Timestamp": 1743696900,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:15:00"
+  },
+  "2025-04-03T12:16:00": {
+    "Open": 160.26,
+    "High": 160.36,
+    "Low": 160.26,
+    "Close": 160.3,
+    "Trading_volume": 15194,
+    "Timestamp": 1743696960,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:16:00"
+  },
+  "2025-04-03T12:17:00": {
+    "Open": 160.305,
+    "High": 160.33,
+    "Low": 160.25,
+    "Close": 160.25,
+    "Trading_volume": 14419,
+    "Timestamp": 1743697020,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:17:00"
+  },
+  "2025-04-03T12:18:00": {
+    "Open": 160.265,
+    "High": 160.32,
+    "Low": 160.25,
+    "Close": 160.3,
+    "Trading_volume": 10612,
+    "Timestamp": 1743697080,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:18:00"
+  },
+  "2025-04-03T12:19:00": {
+    "Open": 160.27,
+    "High": 160.32,
+    "Low": 160.26,
+    "Close": 160.27,
+    "Trading_volume": 14652,
+    "Timestamp": 1743697140,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:19:00"
+  },
+  "2025-04-03T12:20:00": {
+    "Open": 160.25,
+    "High": 160.26,
+    "Low": 160.07,
+    "Close": 160.11,
+    "Trading_volume": 23598,
+    "Timestamp": 1743697200,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:20:00"
+  },
+  "2025-04-03T12:21:00": {
+    "Open": 160.12,
+    "High": 160.17,
+    "Low": 159.99,
+    "Close": 159.99,
+    "Trading_volume": 12933,
+    "Timestamp": 1743697260,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:21:00"
+  },
+  "2025-04-03T12:22:00": {
+    "Open": 160.01,
+    "High": 160.155,
+    "Low": 160.01,
+    "Close": 160.13,
+    "Trading_volume": 15730,
+    "Timestamp": 1743697320,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:22:00"
+  },
+  "2025-04-03T12:23:00": {
+    "Open": 160.12,
+    "High": 160.21,
+    "Low": 160.12,
+    "Close": 160.21,
+    "Trading_volume": 10744,
+    "Timestamp": 1743697380,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:23:00"
+  },
+  "2025-04-03T12:24:00": {
+    "Open": 160.225,
+    "High": 160.265,
+    "Low": 160.19,
+    "Close": 160.2,
+    "Trading_volume": 16219,
+    "Timestamp": 1743697440,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:24:00"
+  },
+  "2025-04-03T12:25:00": {
+    "Open": 160.22,
+    "High": 160.24,
+    "Low": 160.19,
+    "Close": 160.22,
+    "Trading_volume": 16526,
+    "Timestamp": 1743697500,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:25:00"
+  },
+  "2025-04-03T12:26:00": {
+    "Open": 160.15,
+    "High": 160.16,
+    "Low": 160.03,
+    "Close": 160.03,
+    "Trading_volume": 14947,
+    "Timestamp": 1743697560,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:26:00"
+  },
+  "2025-04-03T12:27:00": {
+    "Open": 160.03,
+    "High": 160.06,
+    "Low": 159.98,
+    "Close": 160.005,
+    "Trading_volume": 14837,
+    "Timestamp": 1743697620,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:27:00"
+  },
+  "2025-04-03T12:28:00": {
+    "Open": 159.99,
+    "High": 160.1,
+    "Low": 159.99,
+    "Close": 160.05,
+    "Trading_volume": 18461,
+    "Timestamp": 1743697680,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:28:00"
+  },
+  "2025-04-03T12:29:00": {
+    "Open": 160.055,
+    "High": 160.08,
+    "Low": 159.91,
+    "Close": 159.92,
+    "Trading_volume": 7628,
+    "Timestamp": 1743697740,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:29:00"
+  },
+  "2025-04-03T12:30:00": {
+    "Open": 159.9,
+    "High": 159.9,
+    "Low": 159.75,
+    "Close": 159.75,
+    "Trading_volume": 10929,
+    "Timestamp": 1743697800,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:30:00"
+  },
+  "2025-04-03T12:31:00": {
+    "Open": 159.75,
+    "High": 159.75,
+    "Low": 159.625,
+    "Close": 159.65,
+    "Trading_volume": 15670,
+    "Timestamp": 1743697860,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:31:00"
+  },
+  "2025-04-03T12:32:00": {
+    "Open": 159.64,
+    "High": 159.72,
+    "Low": 159.64,
+    "Close": 159.69,
+    "Trading_volume": 12908,
+    "Timestamp": 1743697920,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:32:00"
+  },
+  "2025-04-03T12:33:00": {
+    "Open": 159.71,
+    "High": 159.71,
+    "Low": 159.48,
+    "Close": 159.51,
+    "Trading_volume": 16941,
+    "Timestamp": 1743697980,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:33:00"
+  },
+  "2025-04-03T12:34:00": {
+    "Open": 159.54,
+    "High": 159.65,
+    "Low": 159.535,
+    "Close": 159.595,
+    "Trading_volume": 17451,
+    "Timestamp": 1743698040,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:34:00"
+  },
+  "2025-04-03T12:35:00": {
+    "Open": 159.645,
+    "High": 159.645,
+    "Low": 159.44,
+    "Close": 159.47,
+    "Trading_volume": 18926,
+    "Timestamp": 1743698100,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:35:00"
+  },
+  "2025-04-03T12:36:00": {
+    "Open": 159.45,
+    "High": 159.58,
+    "Low": 159.445,
+    "Close": 159.5,
+    "Trading_volume": 19625,
+    "Timestamp": 1743698160,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:36:00"
+  },
+  "2025-04-03T12:37:00": {
+    "Open": 159.52,
+    "High": 159.63,
+    "Low": 159.51,
+    "Close": 159.52,
+    "Trading_volume": 23531,
+    "Timestamp": 1743698220,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:37:00"
+  },
+  "2025-04-03T12:38:00": {
+    "Open": 159.53,
+    "High": 159.58,
+    "Low": 159.5,
+    "Close": 159.54,
+    "Trading_volume": 8979,
+    "Timestamp": 1743698280,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:38:00"
+  },
+  "2025-04-03T12:39:00": {
+    "Open": 159.54,
+    "High": 159.57,
+    "Low": 159.54,
+    "Close": 159.55,
+    "Trading_volume": 6169,
+    "Timestamp": 1743698340,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:39:00"
+  },
+  "2025-04-03T12:40:00": {
+    "Open": 159.54,
+    "High": 159.64,
+    "Low": 159.54,
+    "Close": 159.575,
+    "Trading_volume": 22992,
+    "Timestamp": 1743698400,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:40:00"
+  },
+  "2025-04-03T12:41:00": {
+    "Open": 159.595,
+    "High": 159.69,
+    "Low": 159.56,
+    "Close": 159.65,
+    "Trading_volume": 20726,
+    "Timestamp": 1743698460,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:41:00"
+  },
+  "2025-04-03T12:42:00": {
+    "Open": 159.67,
+    "High": 159.7,
+    "Low": 159.61,
+    "Close": 159.635,
+    "Trading_volume": 10730,
+    "Timestamp": 1743698520,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:42:00"
+  },
+  "2025-04-03T12:43:00": {
+    "Open": 159.62,
+    "High": 159.62,
+    "Low": 159.565,
+    "Close": 159.62,
+    "Trading_volume": 8968,
+    "Timestamp": 1743698580,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:43:00"
+  },
+  "2025-04-03T12:44:00": {
+    "Open": 159.61,
+    "High": 159.61,
+    "Low": 159.52,
+    "Close": 159.58,
+    "Trading_volume": 13085,
+    "Timestamp": 1743698640,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:44:00"
+  },
+  "2025-04-03T12:45:00": {
+    "Open": 159.61,
+    "High": 159.7,
+    "Low": 159.595,
+    "Close": 159.595,
+    "Trading_volume": 15885,
+    "Timestamp": 1743698700,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:45:00"
+  },
+  "2025-04-03T12:46:00": {
+    "Open": 159.59,
+    "High": 159.68,
+    "Low": 159.555,
+    "Close": 159.675,
+    "Trading_volume": 14946,
+    "Timestamp": 1743698760,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:46:00"
+  },
+  "2025-04-03T12:47:00": {
+    "Open": 159.69,
+    "High": 159.77,
+    "Low": 159.6,
+    "Close": 159.62,
+    "Trading_volume": 19728,
+    "Timestamp": 1743698820,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:47:00"
+  },
+  "2025-04-03T12:48:00": {
+    "Open": 159.61,
+    "High": 159.64,
+    "Low": 159.57,
+    "Close": 159.64,
+    "Trading_volume": 10918,
+    "Timestamp": 1743698880,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:48:00"
+  },
+  "2025-04-03T12:49:00": {
+    "Open": 159.65,
+    "High": 159.65,
+    "Low": 159.57,
+    "Close": 159.63,
+    "Trading_volume": 8400,
+    "Timestamp": 1743698940,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:49:00"
+  },
+  "2025-04-03T12:50:00": {
+    "Open": 159.6,
+    "High": 159.61,
+    "Low": 159.45,
+    "Close": 159.47,
+    "Trading_volume": 13786,
+    "Timestamp": 1743699000,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:50:00"
+  },
+  "2025-04-03T12:51:00": {
+    "Open": 159.49,
+    "High": 159.51,
+    "Low": 159.38,
+    "Close": 159.41,
+    "Trading_volume": 23710,
+    "Timestamp": 1743699060,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:51:00"
+  },
+  "2025-04-03T12:52:00": {
+    "Open": 159.4,
+    "High": 159.4,
+    "Low": 159.35,
+    "Close": 159.38,
+    "Trading_volume": 9940,
+    "Timestamp": 1743699120,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:52:00"
+  },
+  "2025-04-03T12:53:00": {
+    "Open": 159.39,
+    "High": 159.43,
+    "Low": 159.29,
+    "Close": 159.31,
+    "Trading_volume": 19053,
+    "Timestamp": 1743699180,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:53:00"
+  },
+  "2025-04-03T12:54:00": {
+    "Open": 159.3,
+    "High": 159.47,
+    "Low": 159.3,
+    "Close": 159.47,
+    "Trading_volume": 14412,
+    "Timestamp": 1743699240,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:54:00"
+  },
+  "2025-04-03T12:55:00": {
+    "Open": 159.465,
+    "High": 159.5,
+    "Low": 159.46,
+    "Close": 159.5,
+    "Trading_volume": 9761,
+    "Timestamp": 1743699300,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:55:00"
+  },
+  "2025-04-03T12:56:00": {
+    "Open": 159.48,
+    "High": 159.48,
+    "Low": 159.4,
+    "Close": 159.405,
+    "Trading_volume": 7166,
+    "Timestamp": 1743699360,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:56:00"
+  },
+  "2025-04-03T12:57:00": {
+    "Open": 159.42,
+    "High": 159.425,
+    "Low": 159.35,
+    "Close": 159.37,
+    "Trading_volume": 8948,
+    "Timestamp": 1743699420,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:57:00"
+  },
+  "2025-04-03T12:58:00": {
+    "Open": 159.41,
+    "High": 159.47,
+    "Low": 159.41,
+    "Close": 159.47,
+    "Trading_volume": 10306,
+    "Timestamp": 1743699480,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:58:00"
+  },
+  "2025-04-03T12:59:00": {
+    "Open": 159.425,
+    "High": 159.425,
+    "Low": 159.4,
+    "Close": 159.42,
+    "Trading_volume": 8352,
+    "Timestamp": 1743699540,
+    "Eastern_United_States_Timestamp": "2025-04-03T12:59:00"
+  },
+  "2025-04-03T13:00:00": {
+    "Open": 159.4,
+    "High": 159.425,
+    "Low": 159.34,
+    "Close": 159.36,
+    "Trading_volume": 8501,
+    "Timestamp": 1743699600,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:00:00"
+  },
+  "2025-04-03T13:01:00": {
+    "Open": 159.39,
+    "High": 159.39,
+    "Low": 159.3,
+    "Close": 159.34,
+    "Trading_volume": 16299,
+    "Timestamp": 1743699660,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:01:00"
+  },
+  "2025-04-03T13:02:00": {
+    "Open": 159.35,
+    "High": 159.36,
+    "Low": 159.305,
+    "Close": 159.34,
+    "Trading_volume": 7344,
+    "Timestamp": 1743699720,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:02:00"
+  },
+  "2025-04-03T13:03:00": {
+    "Open": 159.34,
+    "High": 159.45,
+    "Low": 159.32,
+    "Close": 159.45,
+    "Trading_volume": 15532,
+    "Timestamp": 1743699780,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:03:00"
+  },
+  "2025-04-03T13:04:00": {
+    "Open": 159.46,
+    "High": 159.475,
+    "Low": 159.33,
+    "Close": 159.4,
+    "Trading_volume": 43355,
+    "Timestamp": 1743699840,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:04:00"
+  },
+  "2025-04-03T13:05:00": {
+    "Open": 159.385,
+    "High": 159.4,
+    "Low": 159.32,
+    "Close": 159.39,
+    "Trading_volume": 9044,
+    "Timestamp": 1743699900,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:05:00"
+  },
+  "2025-04-03T13:06:00": {
+    "Open": 159.4,
+    "High": 159.415,
+    "Low": 159.38,
+    "Close": 159.385,
+    "Trading_volume": 14280,
+    "Timestamp": 1743699960,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:06:00"
+  },
+  "2025-04-03T13:07:00": {
+    "Open": 159.385,
+    "High": 159.385,
+    "Low": 159.34,
+    "Close": 159.34,
+    "Trading_volume": 8195,
+    "Timestamp": 1743700020,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:07:00"
+  },
+  "2025-04-03T13:08:00": {
+    "Open": 159.34,
+    "High": 159.34,
+    "Low": 159.23,
+    "Close": 159.235,
+    "Trading_volume": 8531,
+    "Timestamp": 1743700080,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:08:00"
+  },
+  "2025-04-03T13:09:00": {
+    "Open": 159.22,
+    "High": 159.29,
+    "Low": 159.21,
+    "Close": 159.26,
+    "Trading_volume": 7771,
+    "Timestamp": 1743700140,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:09:00"
+  },
+  "2025-04-03T13:10:00": {
+    "Open": 159.25,
+    "High": 159.27,
+    "Low": 159.21,
+    "Close": 159.215,
+    "Trading_volume": 8292,
+    "Timestamp": 1743700200,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:10:00"
+  },
+  "2025-04-03T13:11:00": {
+    "Open": 159.18,
+    "High": 159.26,
+    "Low": 159.18,
+    "Close": 159.26,
+    "Trading_volume": 6538,
+    "Timestamp": 1743700260,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:11:00"
+  },
+  "2025-04-03T13:12:00": {
+    "Open": 159.255,
+    "High": 159.325,
+    "Low": 159.255,
+    "Close": 159.325,
+    "Trading_volume": 16500,
+    "Timestamp": 1743700320,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:12:00"
+  },
+  "2025-04-03T13:13:00": {
+    "Open": 159.34,
+    "High": 159.41,
+    "Low": 159.34,
+    "Close": 159.355,
+    "Trading_volume": 16251,
+    "Timestamp": 1743700380,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:13:00"
+  },
+  "2025-04-03T13:14:00": {
+    "Open": 159.35,
+    "High": 159.35,
+    "Low": 159.3,
+    "Close": 159.33,
+    "Trading_volume": 11873,
+    "Timestamp": 1743700440,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:14:00"
+  },
+  "2025-04-03T13:15:00": {
+    "Open": 159.335,
+    "High": 159.47,
+    "Low": 159.335,
+    "Close": 159.45,
+    "Trading_volume": 26351,
+    "Timestamp": 1743700500,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:15:00"
+  },
+  "2025-04-03T13:16:00": {
+    "Open": 159.455,
+    "High": 159.49,
+    "Low": 159.445,
+    "Close": 159.46,
+    "Trading_volume": 20368,
+    "Timestamp": 1743700560,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:16:00"
+  },
+  "2025-04-03T13:17:00": {
+    "Open": 159.49,
+    "High": 159.49,
+    "Low": 159.4,
+    "Close": 159.43,
+    "Trading_volume": 13132,
+    "Timestamp": 1743700620,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:17:00"
+  },
+  "2025-04-03T13:18:00": {
+    "Open": 159.475,
+    "High": 159.64,
+    "Low": 159.475,
+    "Close": 159.64,
+    "Trading_volume": 19531,
+    "Timestamp": 1743700680,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:18:00"
+  },
+  "2025-04-03T13:19:00": {
+    "Open": 159.64,
+    "High": 159.645,
+    "Low": 159.51,
+    "Close": 159.55,
+    "Trading_volume": 11836,
+    "Timestamp": 1743700740,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:19:00"
+  },
+  "2025-04-03T13:20:00": {
+    "Open": 159.52,
+    "High": 159.56,
+    "Low": 159.5,
+    "Close": 159.55,
+    "Trading_volume": 13825,
+    "Timestamp": 1743700800,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:20:00"
+  },
+  "2025-04-03T13:21:00": {
+    "Open": 159.55,
+    "High": 159.59,
+    "Low": 159.43,
+    "Close": 159.43,
+    "Trading_volume": 13254,
+    "Timestamp": 1743700860,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:21:00"
+  },
+  "2025-04-03T13:22:00": {
+    "Open": 159.43,
+    "High": 159.48,
+    "Low": 159.42,
+    "Close": 159.48,
+    "Trading_volume": 10895,
+    "Timestamp": 1743700920,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:22:00"
+  },
+  "2025-04-03T13:23:00": {
+    "Open": 159.46,
+    "High": 159.47,
+    "Low": 159.43,
+    "Close": 159.46,
+    "Trading_volume": 4750,
+    "Timestamp": 1743700980,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:23:00"
+  },
+  "2025-04-03T13:24:00": {
+    "Open": 159.455,
+    "High": 159.47,
+    "Low": 159.42,
+    "Close": 159.47,
+    "Trading_volume": 5007,
+    "Timestamp": 1743701040,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:24:00"
+  },
+  "2025-04-03T13:25:00": {
+    "Open": 159.49,
+    "High": 159.49,
+    "Low": 159.38,
+    "Close": 159.42,
+    "Trading_volume": 7914,
+    "Timestamp": 1743701100,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:25:00"
+  },
+  "2025-04-03T13:26:00": {
+    "Open": 159.43,
+    "High": 159.45,
+    "Low": 159.37,
+    "Close": 159.38,
+    "Trading_volume": 6251,
+    "Timestamp": 1743701160,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:26:00"
+  },
+  "2025-04-03T13:27:00": {
+    "Open": 159.38,
+    "High": 159.43,
+    "Low": 159.355,
+    "Close": 159.43,
+    "Trading_volume": 6646,
+    "Timestamp": 1743701220,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:27:00"
+  },
+  "2025-04-03T13:28:00": {
+    "Open": 159.44,
+    "High": 159.45,
+    "Low": 159.36,
+    "Close": 159.36,
+    "Trading_volume": 13021,
+    "Timestamp": 1743701280,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:28:00"
+  },
+  "2025-04-03T13:29:00": {
+    "Open": 159.37,
+    "High": 159.4,
+    "Low": 159.33,
+    "Close": 159.4,
+    "Trading_volume": 8585,
+    "Timestamp": 1743701340,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:29:00"
+  },
+  "2025-04-03T13:30:00": {
+    "Open": 159.41,
+    "High": 159.57,
+    "Low": 159.41,
+    "Close": 159.49,
+    "Trading_volume": 24924,
+    "Timestamp": 1743701400,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:30:00"
+  },
+  "2025-04-03T13:31:00": {
+    "Open": 159.48,
+    "High": 159.63,
+    "Low": 159.45,
+    "Close": 159.59,
+    "Trading_volume": 34808,
+    "Timestamp": 1743701460,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:31:00"
+  },
+  "2025-04-03T13:32:00": {
+    "Open": 159.58,
+    "High": 159.635,
+    "Low": 159.57,
+    "Close": 159.635,
+    "Trading_volume": 9082,
+    "Timestamp": 1743701520,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:32:00"
+  },
+  "2025-04-03T13:33:00": {
+    "Open": 159.625,
+    "High": 159.81,
+    "Low": 159.625,
+    "Close": 159.81,
+    "Trading_volume": 17762,
+    "Timestamp": 1743701580,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:33:00"
+  },
+  "2025-04-03T13:34:00": {
+    "Open": 159.82,
+    "High": 159.92,
+    "Low": 159.82,
+    "Close": 159.83,
+    "Trading_volume": 19869,
+    "Timestamp": 1743701640,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:34:00"
+  },
+  "2025-04-03T13:35:00": {
+    "Open": 159.845,
+    "High": 159.91,
+    "Low": 159.83,
+    "Close": 159.83,
+    "Trading_volume": 18886,
+    "Timestamp": 1743701700,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:35:00"
+  },
+  "2025-04-03T13:36:00": {
+    "Open": 159.845,
+    "High": 159.85,
+    "Low": 159.76,
+    "Close": 159.77,
+    "Trading_volume": 11279,
+    "Timestamp": 1743701760,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:36:00"
+  },
+  "2025-04-03T13:37:00": {
+    "Open": 159.75,
+    "High": 159.85,
+    "Low": 159.72,
+    "Close": 159.82,
+    "Trading_volume": 15807,
+    "Timestamp": 1743701820,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:37:00"
+  },
+  "2025-04-03T13:38:00": {
+    "Open": 159.835,
+    "High": 160.01,
+    "Low": 159.835,
+    "Close": 159.99,
+    "Trading_volume": 15852,
+    "Timestamp": 1743701880,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:38:00"
+  },
+  "2025-04-03T13:39:00": {
+    "Open": 159.97,
+    "High": 159.98,
+    "Low": 159.94,
+    "Close": 159.97,
+    "Trading_volume": 12131,
+    "Timestamp": 1743701940,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:39:00"
+  },
+  "2025-04-03T13:40:00": {
+    "Open": 159.97,
+    "High": 159.97,
+    "Low": 159.87,
+    "Close": 159.88,
+    "Trading_volume": 15204,
+    "Timestamp": 1743702000,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:40:00"
+  },
+  "2025-04-03T13:41:00": {
+    "Open": 159.895,
+    "High": 159.94,
+    "Low": 159.875,
+    "Close": 159.94,
+    "Trading_volume": 24662,
+    "Timestamp": 1743702060,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:41:00"
+  },
+  "2025-04-03T13:42:00": {
+    "Open": 159.93,
+    "High": 159.94,
+    "Low": 159.87,
+    "Close": 159.88,
+    "Trading_volume": 25005,
+    "Timestamp": 1743702120,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:42:00"
+  },
+  "2025-04-03T13:43:00": {
+    "Open": 159.89,
+    "High": 160.015,
+    "Low": 159.89,
+    "Close": 160.01,
+    "Trading_volume": 13196,
+    "Timestamp": 1743702180,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:43:00"
+  },
+  "2025-04-03T13:44:00": {
+    "Open": 160.04,
+    "High": 160.06,
+    "Low": 159.99,
+    "Close": 160.06,
+    "Trading_volume": 11025,
+    "Timestamp": 1743702240,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:44:00"
+  },
+  "2025-04-03T13:45:00": {
+    "Open": 160.04,
+    "High": 160.045,
+    "Low": 159.96,
+    "Close": 160,
+    "Trading_volume": 20387,
+    "Timestamp": 1743702300,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:45:00"
+  },
+  "2025-04-03T13:46:00": {
+    "Open": 160.005,
+    "High": 160.005,
+    "Low": 159.86,
+    "Close": 159.9,
+    "Trading_volume": 24017,
+    "Timestamp": 1743702360,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:46:00"
+  },
+  "2025-04-03T13:47:00": {
+    "Open": 159.91,
+    "High": 159.93,
+    "Low": 159.86,
+    "Close": 159.9,
+    "Trading_volume": 26092,
+    "Timestamp": 1743702420,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:47:00"
+  },
+  "2025-04-03T13:48:00": {
+    "Open": 159.901,
+    "High": 159.901,
+    "Low": 159.69,
+    "Close": 159.72,
+    "Trading_volume": 15793,
+    "Timestamp": 1743702480,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:48:00"
+  },
+  "2025-04-03T13:49:00": {
+    "Open": 159.73,
+    "High": 159.85,
+    "Low": 159.72,
+    "Close": 159.84,
+    "Trading_volume": 13790,
+    "Timestamp": 1743702540,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:49:00"
+  },
+  "2025-04-03T13:50:00": {
+    "Open": 159.845,
+    "High": 159.89,
+    "Low": 159.84,
+    "Close": 159.88,
+    "Trading_volume": 14488,
+    "Timestamp": 1743702600,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:50:00"
+  },
+  "2025-04-03T13:51:00": {
+    "Open": 159.87,
+    "High": 159.87,
+    "Low": 159.8,
+    "Close": 159.81,
+    "Trading_volume": 9807,
+    "Timestamp": 1743702660,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:51:00"
+  },
+  "2025-04-03T13:52:00": {
+    "Open": 159.83,
+    "High": 159.83,
+    "Low": 159.77,
+    "Close": 159.77,
+    "Trading_volume": 11955,
+    "Timestamp": 1743702720,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:52:00"
+  },
+  "2025-04-03T13:53:00": {
+    "Open": 159.74,
+    "High": 159.8,
+    "Low": 159.735,
+    "Close": 159.8,
+    "Trading_volume": 11241,
+    "Timestamp": 1743702780,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:53:00"
+  },
+  "2025-04-03T13:54:00": {
+    "Open": 159.8,
+    "High": 159.88,
+    "Low": 159.8,
+    "Close": 159.88,
+    "Trading_volume": 12404,
+    "Timestamp": 1743702840,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:54:00"
+  },
+  "2025-04-03T13:55:00": {
+    "Open": 159.9,
+    "High": 159.94,
+    "Low": 159.9,
+    "Close": 159.92,
+    "Trading_volume": 9278,
+    "Timestamp": 1743702900,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:55:00"
+  },
+  "2025-04-03T13:56:00": {
+    "Open": 159.91,
+    "High": 159.975,
+    "Low": 159.89,
+    "Close": 159.975,
+    "Trading_volume": 11680,
+    "Timestamp": 1743702960,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:56:00"
+  },
+  "2025-04-03T13:57:00": {
+    "Open": 159.96,
+    "High": 159.98,
+    "Low": 159.91,
+    "Close": 159.93,
+    "Trading_volume": 14461,
+    "Timestamp": 1743703020,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:57:00"
+  },
+  "2025-04-03T13:58:00": {
+    "Open": 159.95,
+    "High": 160.03,
+    "Low": 159.95,
+    "Close": 160.03,
+    "Trading_volume": 13509,
+    "Timestamp": 1743703080,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:58:00"
+  },
+  "2025-04-03T13:59:00": {
+    "Open": 160.03,
+    "High": 160.06,
+    "Low": 160.03,
+    "Close": 160.06,
+    "Trading_volume": 11034,
+    "Timestamp": 1743703140,
+    "Eastern_United_States_Timestamp": "2025-04-03T13:59:00"
+  },
+  "2025-04-03T14:00:00": {
+    "Open": 160.07,
+    "High": 160.25,
+    "Low": 160.07,
+    "Close": 160.19,
+    "Trading_volume": 17687,
+    "Timestamp": 1743703200,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:00:00"
+  },
+  "2025-04-03T14:01:00": {
+    "Open": 160.19,
+    "High": 160.29,
+    "Low": 160.19,
+    "Close": 160.29,
+    "Trading_volume": 12347,
+    "Timestamp": 1743703260,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:01:00"
+  },
+  "2025-04-03T14:02:00": {
+    "Open": 160.27,
+    "High": 160.27,
+    "Low": 160.21,
+    "Close": 160.27,
+    "Trading_volume": 27967,
+    "Timestamp": 1743703320,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:02:00"
+  },
+  "2025-04-03T14:03:00": {
+    "Open": 160.275,
+    "High": 160.45,
+    "Low": 160.275,
+    "Close": 160.37,
+    "Trading_volume": 30877,
+    "Timestamp": 1743703380,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:03:00"
+  },
+  "2025-04-03T14:04:00": {
+    "Open": 160.33,
+    "High": 160.42,
+    "Low": 160.315,
+    "Close": 160.41,
+    "Trading_volume": 8312,
+    "Timestamp": 1743703440,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:04:00"
+  },
+  "2025-04-03T14:05:00": {
+    "Open": 160.41,
+    "High": 160.41,
+    "Low": 160.3,
+    "Close": 160.395,
+    "Trading_volume": 29492,
+    "Timestamp": 1743703500,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:05:00"
+  },
+  "2025-04-03T14:06:00": {
+    "Open": 160.4,
+    "High": 160.4,
+    "Low": 160.29,
+    "Close": 160.335,
+    "Trading_volume": 19480,
+    "Timestamp": 1743703560,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:06:00"
+  },
+  "2025-04-03T14:07:00": {
+    "Open": 160.32,
+    "High": 160.32,
+    "Low": 160.22,
+    "Close": 160.22,
+    "Trading_volume": 12863,
+    "Timestamp": 1743703620,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:07:00"
+  },
+  "2025-04-03T14:08:00": {
+    "Open": 160.25,
+    "High": 160.36,
+    "Low": 160.25,
+    "Close": 160.36,
+    "Trading_volume": 14196,
+    "Timestamp": 1743703680,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:08:00"
+  },
+  "2025-04-03T14:09:00": {
+    "Open": 160.37,
+    "High": 160.45,
+    "Low": 160.35,
+    "Close": 160.45,
+    "Trading_volume": 16609,
+    "Timestamp": 1743703740,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:09:00"
+  },
+  "2025-04-03T14:10:00": {
+    "Open": 160.45,
+    "High": 160.5,
+    "Low": 160.45,
+    "Close": 160.48,
+    "Trading_volume": 17334,
+    "Timestamp": 1743703800,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:10:00"
+  },
+  "2025-04-03T14:11:00": {
+    "Open": 160.5,
+    "High": 160.5,
+    "Low": 160.44,
+    "Close": 160.45,
+    "Trading_volume": 11158,
+    "Timestamp": 1743703860,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:11:00"
+  },
+  "2025-04-03T14:12:00": {
+    "Open": 160.455,
+    "High": 160.495,
+    "Low": 160.42,
+    "Close": 160.46,
+    "Trading_volume": 15760,
+    "Timestamp": 1743703920,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:12:00"
+  },
+  "2025-04-03T14:13:00": {
+    "Open": 160.47,
+    "High": 160.54,
+    "Low": 160.46,
+    "Close": 160.52,
+    "Trading_volume": 22042,
+    "Timestamp": 1743703980,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:13:00"
+  },
+  "2025-04-03T14:14:00": {
+    "Open": 160.53,
+    "High": 160.56,
+    "Low": 160.49,
+    "Close": 160.54,
+    "Trading_volume": 14317,
+    "Timestamp": 1743704040,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:14:00"
+  },
+  "2025-04-03T14:15:00": {
+    "Open": 160.53,
+    "High": 160.64,
+    "Low": 160.51,
+    "Close": 160.57,
+    "Trading_volume": 37631,
+    "Timestamp": 1743704100,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:15:00"
+  },
+  "2025-04-03T14:16:00": {
+    "Open": 160.56,
+    "High": 160.565,
+    "Low": 160.47,
+    "Close": 160.54,
+    "Trading_volume": 89314,
+    "Timestamp": 1743704160,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:16:00"
+  },
+  "2025-04-03T14:17:00": {
+    "Open": 160.51,
+    "High": 160.58,
+    "Low": 160.44,
+    "Close": 160.58,
+    "Trading_volume": 24310,
+    "Timestamp": 1743704220,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:17:00"
+  },
+  "2025-04-03T14:18:00": {
+    "Open": 160.58,
+    "High": 160.58,
+    "Low": 160.5,
+    "Close": 160.5,
+    "Trading_volume": 15766,
+    "Timestamp": 1743704280,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:18:00"
+  },
+  "2025-04-03T14:19:00": {
+    "Open": 160.501,
+    "High": 160.53,
+    "Low": 160.43,
+    "Close": 160.52,
+    "Trading_volume": 20484,
+    "Timestamp": 1743704340,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:19:00"
+  },
+  "2025-04-03T14:20:00": {
+    "Open": 160.52,
+    "High": 160.56,
+    "Low": 160.48,
+    "Close": 160.48,
+    "Trading_volume": 24135,
+    "Timestamp": 1743704400,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:20:00"
+  },
+  "2025-04-03T14:21:00": {
+    "Open": 160.45,
+    "High": 160.46,
+    "Low": 160.37,
+    "Close": 160.39,
+    "Trading_volume": 25087,
+    "Timestamp": 1743704460,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:21:00"
+  },
+  "2025-04-03T14:22:00": {
+    "Open": 160.395,
+    "High": 160.445,
+    "Low": 160.395,
+    "Close": 160.44,
+    "Trading_volume": 13590,
+    "Timestamp": 1743704520,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:22:00"
+  },
+  "2025-04-03T14:23:00": {
+    "Open": 160.45,
+    "High": 160.47,
+    "Low": 160.41,
+    "Close": 160.46,
+    "Trading_volume": 24644,
+    "Timestamp": 1743704580,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:23:00"
+  },
+  "2025-04-03T14:24:00": {
+    "Open": 160.48,
+    "High": 160.48,
+    "Low": 160.41,
+    "Close": 160.41,
+    "Trading_volume": 11550,
+    "Timestamp": 1743704640,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:24:00"
+  },
+  "2025-04-03T14:25:00": {
+    "Open": 160.4,
+    "High": 160.45,
+    "Low": 160.4,
+    "Close": 160.43,
+    "Trading_volume": 19258,
+    "Timestamp": 1743704700,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:25:00"
+  },
+  "2025-04-03T14:26:00": {
+    "Open": 160.43,
+    "High": 160.43,
+    "Low": 160.33,
+    "Close": 160.35,
+    "Trading_volume": 15547,
+    "Timestamp": 1743704760,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:26:00"
+  },
+  "2025-04-03T14:27:00": {
+    "Open": 160.35,
+    "High": 160.41,
+    "Low": 160.34,
+    "Close": 160.39,
+    "Trading_volume": 11816,
+    "Timestamp": 1743704820,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:27:00"
+  },
+  "2025-04-03T14:28:00": {
+    "Open": 160.395,
+    "High": 160.395,
+    "Low": 160.3,
+    "Close": 160.3,
+    "Trading_volume": 12319,
+    "Timestamp": 1743704880,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:28:00"
+  },
+  "2025-04-03T14:29:00": {
+    "Open": 160.3,
+    "High": 160.37,
+    "Low": 160.28,
+    "Close": 160.37,
+    "Trading_volume": 17815,
+    "Timestamp": 1743704940,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:29:00"
+  },
+  "2025-04-03T14:30:00": {
+    "Open": 160.35,
+    "High": 160.35,
+    "Low": 160.09,
+    "Close": 160.09,
+    "Trading_volume": 11283,
+    "Timestamp": 1743705000,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:30:00"
+  },
+  "2025-04-03T14:31:00": {
+    "Open": 160.09,
+    "High": 160.11,
+    "Low": 159.965,
+    "Close": 160.035,
+    "Trading_volume": 15885,
+    "Timestamp": 1743705060,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:31:00"
+  },
+  "2025-04-03T14:32:00": {
+    "Open": 160.02,
+    "High": 160.105,
+    "Low": 159.975,
+    "Close": 160.09,
+    "Trading_volume": 13297,
+    "Timestamp": 1743705120,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:32:00"
+  },
+  "2025-04-03T14:33:00": {
+    "Open": 160.11,
+    "High": 160.16,
+    "Low": 159.97,
+    "Close": 160.05,
+    "Trading_volume": 30301,
+    "Timestamp": 1743705180,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:33:00"
+  },
+  "2025-04-03T14:34:00": {
+    "Open": 160.04,
+    "High": 160.135,
+    "Low": 160.04,
+    "Close": 160.05,
+    "Trading_volume": 11651,
+    "Timestamp": 1743705240,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:34:00"
+  },
+  "2025-04-03T14:35:00": {
+    "Open": 160.05,
+    "High": 160.1,
+    "Low": 160.03,
+    "Close": 160.1,
+    "Trading_volume": 14243,
+    "Timestamp": 1743705300,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:35:00"
+  },
+  "2025-04-03T14:36:00": {
+    "Open": 160.09,
+    "High": 160.1,
+    "Low": 160.05,
+    "Close": 160.08,
+    "Trading_volume": 12936,
+    "Timestamp": 1743705360,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:36:00"
+  },
+  "2025-04-03T14:37:00": {
+    "Open": 160.08,
+    "High": 160.09,
+    "Low": 159.98,
+    "Close": 160.04,
+    "Trading_volume": 9424,
+    "Timestamp": 1743705420,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:37:00"
+  },
+  "2025-04-03T14:38:00": {
+    "Open": 160.03,
+    "High": 160.06,
+    "Low": 160,
+    "Close": 160.02,
+    "Trading_volume": 13526,
+    "Timestamp": 1743705480,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:38:00"
+  },
+  "2025-04-03T14:39:00": {
+    "Open": 160.05,
+    "High": 160.1,
+    "Low": 160.02,
+    "Close": 160.02,
+    "Trading_volume": 16665,
+    "Timestamp": 1743705540,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:39:00"
+  },
+  "2025-04-03T14:40:00": {
+    "Open": 160,
+    "High": 160.1,
+    "Low": 160,
+    "Close": 160.1,
+    "Trading_volume": 14811,
+    "Timestamp": 1743705600,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:40:00"
+  },
+  "2025-04-03T14:41:00": {
+    "Open": 160.1,
+    "High": 160.125,
+    "Low": 160.06,
+    "Close": 160.09,
+    "Trading_volume": 21394,
+    "Timestamp": 1743705660,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:41:00"
+  },
+  "2025-04-03T14:42:00": {
+    "Open": 160.13,
+    "High": 160.16,
+    "Low": 160.1,
+    "Close": 160.14,
+    "Trading_volume": 16133,
+    "Timestamp": 1743705720,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:42:00"
+  },
+  "2025-04-03T14:43:00": {
+    "Open": 160.14,
+    "High": 160.2,
+    "Low": 160.1,
+    "Close": 160.13,
+    "Trading_volume": 21657,
+    "Timestamp": 1743705780,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:43:00"
+  },
+  "2025-04-03T14:44:00": {
+    "Open": 160.13,
+    "High": 160.16,
+    "Low": 160.06,
+    "Close": 160.13,
+    "Trading_volume": 21207,
+    "Timestamp": 1743705840,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:44:00"
+  },
+  "2025-04-03T14:45:00": {
+    "Open": 160.14,
+    "High": 160.19,
+    "Low": 160.11,
+    "Close": 160.14,
+    "Trading_volume": 28277,
+    "Timestamp": 1743705900,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:45:00"
+  },
+  "2025-04-03T14:46:00": {
+    "Open": 160.08,
+    "High": 160.08,
+    "Low": 159.99,
+    "Close": 160.05,
+    "Trading_volume": 21925,
+    "Timestamp": 1743705960,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:46:00"
+  },
+  "2025-04-03T14:47:00": {
+    "Open": 160.05,
+    "High": 160.13,
+    "Low": 160.04,
+    "Close": 160.13,
+    "Trading_volume": 14829,
+    "Timestamp": 1743706020,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:47:00"
+  },
+  "2025-04-03T14:48:00": {
+    "Open": 160.16,
+    "High": 160.16,
+    "Low": 160.04,
+    "Close": 160.12,
+    "Trading_volume": 19377,
+    "Timestamp": 1743706080,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:48:00"
+  },
+  "2025-04-03T14:49:00": {
+    "Open": 160.13,
+    "High": 160.19,
+    "Low": 160.13,
+    "Close": 160.175,
+    "Trading_volume": 20220,
+    "Timestamp": 1743706140,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:49:00"
+  },
+  "2025-04-03T14:50:00": {
+    "Open": 160.15,
+    "High": 160.15,
+    "Low": 160.03,
+    "Close": 160.03,
+    "Trading_volume": 17774,
+    "Timestamp": 1743706200,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:50:00"
+  },
+  "2025-04-03T14:51:00": {
+    "Open": 160.02,
+    "High": 160.05,
+    "Low": 159.99,
+    "Close": 160.005,
+    "Trading_volume": 25613,
+    "Timestamp": 1743706260,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:51:00"
+  },
+  "2025-04-03T14:52:00": {
+    "Open": 160.03,
+    "High": 160.04,
+    "Low": 159.97,
+    "Close": 160,
+    "Trading_volume": 10936,
+    "Timestamp": 1743706320,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:52:00"
+  },
+  "2025-04-03T14:53:00": {
+    "Open": 159.98,
+    "High": 159.98,
+    "Low": 159.855,
+    "Close": 159.92,
+    "Trading_volume": 17102,
+    "Timestamp": 1743706380,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:53:00"
+  },
+  "2025-04-03T14:54:00": {
+    "Open": 159.905,
+    "High": 159.935,
+    "Low": 159.88,
+    "Close": 159.93,
+    "Trading_volume": 26118,
+    "Timestamp": 1743706440,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:54:00"
+  },
+  "2025-04-03T14:55:00": {
+    "Open": 159.92,
+    "High": 159.95,
+    "Low": 159.81,
+    "Close": 159.82,
+    "Trading_volume": 23699,
+    "Timestamp": 1743706500,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:55:00"
+  },
+  "2025-04-03T14:56:00": {
+    "Open": 159.83,
+    "High": 159.87,
+    "Low": 159.81,
+    "Close": 159.85,
+    "Trading_volume": 16510,
+    "Timestamp": 1743706560,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:56:00"
+  },
+  "2025-04-03T14:57:00": {
+    "Open": 159.85,
+    "High": 159.93,
+    "Low": 159.84,
+    "Close": 159.9,
+    "Trading_volume": 24240,
+    "Timestamp": 1743706620,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:57:00"
+  },
+  "2025-04-03T14:58:00": {
+    "Open": 159.89,
+    "High": 159.89,
+    "Low": 159.76,
+    "Close": 159.89,
+    "Trading_volume": 22813,
+    "Timestamp": 1743706680,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:58:00"
+  },
+  "2025-04-03T14:59:00": {
+    "Open": 159.91,
+    "High": 159.93,
+    "Low": 159.885,
+    "Close": 159.93,
+    "Trading_volume": 10781,
+    "Timestamp": 1743706740,
+    "Eastern_United_States_Timestamp": "2025-04-03T14:59:00"
+  },
+  "2025-04-03T15:00:00": {
+    "Open": 159.93,
+    "High": 159.95,
+    "Low": 159.87,
+    "Close": 159.91,
+    "Trading_volume": 17013,
+    "Timestamp": 1743706800,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:00:00"
+  },
+  "2025-04-03T15:01:00": {
+    "Open": 159.91,
+    "High": 160.01,
+    "Low": 159.91,
+    "Close": 160.01,
+    "Trading_volume": 18463,
+    "Timestamp": 1743706860,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:01:00"
+  },
+  "2025-04-03T15:02:00": {
+    "Open": 160.02,
+    "High": 160.13,
+    "Low": 159.97,
+    "Close": 160.13,
+    "Trading_volume": 27569,
+    "Timestamp": 1743706920,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:02:00"
+  },
+  "2025-04-03T15:03:00": {
+    "Open": 160.14,
+    "High": 160.2,
+    "Low": 160.13,
+    "Close": 160.17,
+    "Trading_volume": 22697,
+    "Timestamp": 1743706980,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:03:00"
+  },
+  "2025-04-03T15:04:00": {
+    "Open": 160.14,
+    "High": 160.16,
+    "Low": 160.09,
+    "Close": 160.15,
+    "Trading_volume": 14483,
+    "Timestamp": 1743707040,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:04:00"
+  },
+  "2025-04-03T15:05:00": {
+    "Open": 160.17,
+    "High": 160.32,
+    "Low": 160.16,
+    "Close": 160.31,
+    "Trading_volume": 12231,
+    "Timestamp": 1743707100,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:05:00"
+  },
+  "2025-04-03T15:06:00": {
+    "Open": 160.28,
+    "High": 160.28,
+    "Low": 160.18,
+    "Close": 160.19,
+    "Trading_volume": 17911,
+    "Timestamp": 1743707160,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:06:00"
+  },
+  "2025-04-03T15:07:00": {
+    "Open": 160.19,
+    "High": 160.25,
+    "Low": 160.13,
+    "Close": 160.131,
+    "Trading_volume": 18733,
+    "Timestamp": 1743707220,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:07:00"
+  },
+  "2025-04-03T15:08:00": {
+    "Open": 160.15,
+    "High": 160.22,
+    "Low": 160.145,
+    "Close": 160.2,
+    "Trading_volume": 20489,
+    "Timestamp": 1743707280,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:08:00"
+  },
+  "2025-04-03T15:09:00": {
+    "Open": 160.2,
+    "High": 160.3,
+    "Low": 160.2,
+    "Close": 160.3,
+    "Trading_volume": 27557,
+    "Timestamp": 1743707340,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:09:00"
+  },
+  "2025-04-03T15:10:00": {
+    "Open": 160.31,
+    "High": 160.4,
+    "Low": 160.31,
+    "Close": 160.39,
+    "Trading_volume": 21366,
+    "Timestamp": 1743707400,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:10:00"
+  },
+  "2025-04-03T15:11:00": {
+    "Open": 160.405,
+    "High": 160.405,
+    "Low": 160.37,
+    "Close": 160.38,
+    "Trading_volume": 15109,
+    "Timestamp": 1743707460,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:11:00"
+  },
+  "2025-04-03T15:12:00": {
+    "Open": 160.39,
+    "High": 160.41,
+    "Low": 160.36,
+    "Close": 160.36,
+    "Trading_volume": 16119,
+    "Timestamp": 1743707520,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:12:00"
+  },
+  "2025-04-03T15:13:00": {
+    "Open": 160.36,
+    "High": 160.391,
+    "Low": 160.29,
+    "Close": 160.31,
+    "Trading_volume": 25728,
+    "Timestamp": 1743707580,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:13:00"
+  },
+  "2025-04-03T15:14:00": {
+    "Open": 160.31,
+    "High": 160.35,
+    "Low": 160.28,
+    "Close": 160.305,
+    "Trading_volume": 19646,
+    "Timestamp": 1743707640,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:14:00"
+  },
+  "2025-04-03T15:15:00": {
+    "Open": 160.3,
+    "High": 160.32,
+    "Low": 160.22,
+    "Close": 160.26,
+    "Trading_volume": 24655,
+    "Timestamp": 1743707700,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:15:00"
+  },
+  "2025-04-03T15:16:00": {
+    "Open": 160.26,
+    "High": 160.3,
+    "Low": 160.25,
+    "Close": 160.265,
+    "Trading_volume": 17585,
+    "Timestamp": 1743707760,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:16:00"
+  },
+  "2025-04-03T15:17:00": {
+    "Open": 160.23,
+    "High": 160.26,
+    "Low": 160.16,
+    "Close": 160.17,
+    "Trading_volume": 20920,
+    "Timestamp": 1743707820,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:17:00"
+  },
+  "2025-04-03T15:18:00": {
+    "Open": 160.16,
+    "High": 160.29,
+    "Low": 160.1,
+    "Close": 160.27,
+    "Trading_volume": 21380,
+    "Timestamp": 1743707880,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:18:00"
+  },
+  "2025-04-03T15:19:00": {
+    "Open": 160.27,
+    "High": 160.36,
+    "Low": 160.27,
+    "Close": 160.35,
+    "Trading_volume": 17278,
+    "Timestamp": 1743707940,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:19:00"
+  },
+  "2025-04-03T15:20:00": {
+    "Open": 160.35,
+    "High": 160.38,
+    "Low": 160.34,
+    "Close": 160.38,
+    "Trading_volume": 16329,
+    "Timestamp": 1743708000,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:20:00"
+  },
+  "2025-04-03T15:21:00": {
+    "Open": 160.38,
+    "High": 160.455,
+    "Low": 160.38,
+    "Close": 160.45,
+    "Trading_volume": 25092,
+    "Timestamp": 1743708060,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:21:00"
+  },
+  "2025-04-03T15:22:00": {
+    "Open": 160.45,
+    "High": 160.46,
+    "Low": 160.37,
+    "Close": 160.39,
+    "Trading_volume": 20339,
+    "Timestamp": 1743708120,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:22:00"
+  },
+  "2025-04-03T15:23:00": {
+    "Open": 160.4,
+    "High": 160.525,
+    "Low": 160.39,
+    "Close": 160.52,
+    "Trading_volume": 39549,
+    "Timestamp": 1743708180,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:23:00"
+  },
+  "2025-04-03T15:24:00": {
+    "Open": 160.53,
+    "High": 160.64,
+    "Low": 160.53,
+    "Close": 160.53,
+    "Trading_volume": 21059,
+    "Timestamp": 1743708240,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:24:00"
+  },
+  "2025-04-03T15:25:00": {
+    "Open": 160.525,
+    "High": 160.53,
+    "Low": 160.37,
+    "Close": 160.46,
+    "Trading_volume": 22682,
+    "Timestamp": 1743708300,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:25:00"
+  },
+  "2025-04-03T15:26:00": {
+    "Open": 160.47,
+    "High": 160.5,
+    "Low": 160.37,
+    "Close": 160.49,
+    "Trading_volume": 37043,
+    "Timestamp": 1743708360,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:26:00"
+  },
+  "2025-04-03T15:27:00": {
+    "Open": 160.49,
+    "High": 160.5,
+    "Low": 160.34,
+    "Close": 160.37,
+    "Trading_volume": 13348,
+    "Timestamp": 1743708420,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:27:00"
+  },
+  "2025-04-03T15:28:00": {
+    "Open": 160.355,
+    "High": 160.46,
+    "Low": 160.33,
+    "Close": 160.405,
+    "Trading_volume": 35072,
+    "Timestamp": 1743708480,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:28:00"
+  },
+  "2025-04-03T15:29:00": {
+    "Open": 160.41,
+    "High": 160.46,
+    "Low": 160.39,
+    "Close": 160.425,
+    "Trading_volume": 21368,
+    "Timestamp": 1743708540,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:29:00"
+  },
+  "2025-04-03T15:30:00": {
+    "Open": 160.44,
+    "High": 160.56,
+    "Low": 160.37,
+    "Close": 160.41,
+    "Trading_volume": 43697,
+    "Timestamp": 1743708600,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:30:00"
+  },
+  "2025-04-03T15:31:00": {
+    "Open": 160.42,
+    "High": 160.46,
+    "Low": 160.31,
+    "Close": 160.34,
+    "Trading_volume": 31155,
+    "Timestamp": 1743708660,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:31:00"
+  },
+  "2025-04-03T15:32:00": {
+    "Open": 160.37,
+    "High": 160.38,
+    "Low": 160.22,
+    "Close": 160.24,
+    "Trading_volume": 38747,
+    "Timestamp": 1743708720,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:32:00"
+  },
+  "2025-04-03T15:33:00": {
+    "Open": 160.26,
+    "High": 160.3,
+    "Low": 160.18,
+    "Close": 160.22,
+    "Trading_volume": 27686,
+    "Timestamp": 1743708780,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:33:00"
+  },
+  "2025-04-03T15:34:00": {
+    "Open": 160.22,
+    "High": 160.26,
+    "Low": 160.135,
+    "Close": 160.15,
+    "Trading_volume": 32783,
+    "Timestamp": 1743708840,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:34:00"
+  },
+  "2025-04-03T15:35:00": {
+    "Open": 160.17,
+    "High": 160.28,
+    "Low": 160.15,
+    "Close": 160.27,
+    "Trading_volume": 25423,
+    "Timestamp": 1743708900,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:35:00"
+  },
+  "2025-04-03T15:36:00": {
+    "Open": 160.27,
+    "High": 160.27,
+    "Low": 160.131,
+    "Close": 160.18,
+    "Trading_volume": 24646,
+    "Timestamp": 1743708960,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:36:00"
+  },
+  "2025-04-03T15:37:00": {
+    "Open": 160.19,
+    "High": 160.26,
+    "Low": 160.18,
+    "Close": 160.24,
+    "Trading_volume": 26385,
+    "Timestamp": 1743709020,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:37:00"
+  },
+  "2025-04-03T15:38:00": {
+    "Open": 160.24,
+    "High": 160.27,
+    "Low": 160.18,
+    "Close": 160.2,
+    "Trading_volume": 18399,
+    "Timestamp": 1743709080,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:38:00"
+  },
+  "2025-04-03T15:39:00": {
+    "Open": 160.17,
+    "High": 160.19,
+    "Low": 160.11,
+    "Close": 160.13,
+    "Trading_volume": 26854,
+    "Timestamp": 1743709140,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:39:00"
+  },
+  "2025-04-03T15:40:00": {
+    "Open": 160.13,
+    "High": 160.23,
+    "Low": 160.13,
+    "Close": 160.23,
+    "Trading_volume": 37295,
+    "Timestamp": 1743709200,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:40:00"
+  },
+  "2025-04-03T15:41:00": {
+    "Open": 160.24,
+    "High": 160.4,
+    "Low": 160.24,
+    "Close": 160.4,
+    "Trading_volume": 25821,
+    "Timestamp": 1743709260,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:41:00"
+  },
+  "2025-04-03T15:42:00": {
+    "Open": 160.4,
+    "High": 160.56,
+    "Low": 160.39,
+    "Close": 160.51,
+    "Trading_volume": 34464,
+    "Timestamp": 1743709320,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:42:00"
+  },
+  "2025-04-03T15:43:00": {
+    "Open": 160.51,
+    "High": 160.57,
+    "Low": 160.43,
+    "Close": 160.57,
+    "Trading_volume": 30023,
+    "Timestamp": 1743709380,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:43:00"
+  },
+  "2025-04-03T15:44:00": {
+    "Open": 160.55,
+    "High": 160.625,
+    "Low": 160.52,
+    "Close": 160.61,
+    "Trading_volume": 44266,
+    "Timestamp": 1743709440,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:44:00"
+  },
+  "2025-04-03T15:45:00": {
+    "Open": 160.62,
+    "High": 160.64,
+    "Low": 160.49,
+    "Close": 160.53,
+    "Trading_volume": 37743,
+    "Timestamp": 1743709500,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:45:00"
+  },
+  "2025-04-03T15:46:00": {
+    "Open": 160.525,
+    "High": 160.54,
+    "Low": 160.49,
+    "Close": 160.5,
+    "Trading_volume": 30037,
+    "Timestamp": 1743709560,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:46:00"
+  },
+  "2025-04-03T15:47:00": {
+    "Open": 160.53,
+    "High": 160.55,
+    "Low": 160.43,
+    "Close": 160.43,
+    "Trading_volume": 30896,
+    "Timestamp": 1743709620,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:47:00"
+  },
+  "2025-04-03T15:48:00": {
+    "Open": 160.42,
+    "High": 160.56,
+    "Low": 160.42,
+    "Close": 160.5,
+    "Trading_volume": 38410,
+    "Timestamp": 1743709680,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:48:00"
+  },
+  "2025-04-03T15:49:00": {
+    "Open": 160.5,
+    "High": 160.52,
+    "Low": 160.37,
+    "Close": 160.52,
+    "Trading_volume": 44922,
+    "Timestamp": 1743709740,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:49:00"
+  },
+  "2025-04-03T15:50:00": {
+    "Open": 160.5,
+    "High": 160.5,
+    "Low": 160.19,
+    "Close": 160.25,
+    "Trading_volume": 70673,
+    "Timestamp": 1743709800,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:50:00"
+  },
+  "2025-04-03T15:51:00": {
+    "Open": 160.27,
+    "High": 160.32,
+    "Low": 160.115,
+    "Close": 160.13,
+    "Trading_volume": 44893,
+    "Timestamp": 1743709860,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:51:00"
+  },
+  "2025-04-03T15:52:00": {
+    "Open": 160.13,
+    "High": 160.25,
+    "Low": 160.13,
+    "Close": 160.25,
+    "Trading_volume": 51169,
+    "Timestamp": 1743709920,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:52:00"
+  },
+  "2025-04-03T15:53:00": {
+    "Open": 160.25,
+    "High": 160.41,
+    "Low": 160.18,
+    "Close": 160.37,
+    "Trading_volume": 67582,
+    "Timestamp": 1743709980,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:53:00"
+  },
+  "2025-04-03T15:54:00": {
+    "Open": 160.34,
+    "High": 160.36,
+    "Low": 160.14,
+    "Close": 160.22,
+    "Trading_volume": 86302,
+    "Timestamp": 1743710040,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:54:00"
+  },
+  "2025-04-03T15:55:00": {
+    "Open": 160.21,
+    "High": 160.46,
+    "Low": 160.2,
+    "Close": 160.29,
+    "Trading_volume": 109821,
+    "Timestamp": 1743710100,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:55:00"
+  },
+  "2025-04-03T15:56:00": {
+    "Open": 160.295,
+    "High": 160.31,
+    "Low": 160.07,
+    "Close": 160.13,
+    "Trading_volume": 140759,
+    "Timestamp": 1743710160,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:56:00"
+  },
+  "2025-04-03T15:57:00": {
+    "Open": 160.15,
+    "High": 160.18,
+    "Low": 160.08,
+    "Close": 160.11,
+    "Trading_volume": 107655,
+    "Timestamp": 1743710220,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:57:00"
+  },
+  "2025-04-03T15:58:00": {
+    "Open": 160.12,
+    "High": 160.21,
+    "Low": 160.075,
+    "Close": 160.075,
+    "Trading_volume": 128357,
+    "Timestamp": 1743710280,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:58:00"
+  },
+  "2025-04-03T15:59:00": {
+    "Open": 160.07,
+    "High": 160.08,
+    "Low": 159.77,
+    "Close": 159.87,
+    "Trading_volume": 314865,
+    "Timestamp": 1743710340,
+    "Eastern_United_States_Timestamp": "2025-04-03T15:59:00"
+  }
+}

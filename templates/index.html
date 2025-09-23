@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-time order book and price transaction curve</title>
+    <script src="https://cdn.plot.ly/plotly-2.20.0.min.js"></script>
+    <script src="https://cdn.socket.io/4.4.1/socket.io.min.js"></script>
+    <style>
+        /* CSS样式保持不变 */
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f5f5f5; }
+        .container { display: flex; flex-wrap: wrap; gap: 20px; }
+        .card { background-color: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); padding: 20px; flex: 1; min-width: 300px; }
+        h1, h2 { color: #333; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { padding: 8px; text-align: right; border-bottom: 1px solid #ddd; }
+        th { background-color: #f2f2f2; }
+        .bid { color: green; }
+        .ask { color: red; }
+        .chart { width: 100%; height: 400px; }
+        .last-trade { font-size: 24px; font-weight: bold; text-align: center; margin: 20px 0; }
+        #news-container { margin-top: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+        .news-item { margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
+    </style>
+</head>
+<body>
+    <h1>Real-time order book and price transaction curve</h1>
+    
+    <div class="container">
+        <!-- Other HTML elements remain unchanged -->
+        <div class="card">
+            <h2>Order book top five levels</h2>
+            <div class="last-trade">The latest transaction price: <span id="last-trade">--</span></div>
+            <div style="display: flex;">
+                <div style="flex: 1;"><h3>Bids</h3><table id="bids-table"><thead><tr><th>price</th><th>quantity</th></tr></thead><tbody></tbody></table></div>
+                <div style="flex: 1;"><h3>Asks</h3><table id="asks-table"><thead><tr><th>price</th><th>quantity</th></tr></thead><tbody></tbody></table></div>
+            </div>
+        </div>
+        <div class="card">
+            <h2>Price transaction curve</h2>
+            <div id="price-chart" class="chart"></div>
+        </div>
+    </div>
+    <div id="news-container" class="card">
+        <h2>Latest news</h2>
+        <div id="news-content"></div>
+    </div>
+
+    <script>
+        const socket = io();
+        const priceChart = document.getElementById('price-chart');
+        let minuteVolumeData = []; // Used to cache minute trading volume data
+
+        // Initial drawing, only executed once
+        Plotly.newPlot(priceChart, [
+            { x: [], y: [], type: 'scattergl', mode: 'lines', name: 'transaction price', line: { color: 'rgb(75, 192, 192)', width: 2 } },
+            { x: [], y: [], type: 'bar', name: 'Trading_volume per minute', yaxis: 'y2', marker: { color: 'rgba(150, 150, 150, 0.7)' } }
+        ], {
+            title: 'Price transaction curve and Trading_volume',
+            xaxis: { type: 'date', title: 'time', tickformat: '%H:%M:%S' },
+            yaxis: { title: 'price', side: 'left', showgrid: true, exponentformat: 'none' },
+            yaxis2: { title: 'Trading_volume', side: 'right', overlaying: 'y', showgrid: false, autorange: true },
+            margin: { t: 40, r: 80, b: 40, l: 80 },
+            hovermode: 'x unified',
+            bargap: 0.1
+        });
+
+        // Listen and cache minute trading volume data
+        socket.on('minute_volume_update', function(minuteVolume) {
+            if (Array.isArray(minuteVolume)) {
+                minuteVolumeData = minuteVolume;
+            }
+        });
+
+        // Process trade history data update (backend has filtered trading time)
+        socket.on('trade_history_update', function(fullHistory) {
+            console.log('Receive trade history data:', fullHistory);
+            console.log('Data length:', fullHistory ? fullHistory.length : 0);
+            
+            if (!Array.isArray(fullHistory) || fullHistory.length === 0) {
+                console.log('Trade history data is empty or invalid');
+                return;
+            }
+            
+            const validTrades = fullHistory.filter(t => t && t.time && typeof t.price === 'number');
+            console.log('Valid trade data points:', validTrades.length);
+            
+            if (validTrades.length === 0) {
+                console.log('No valid trade data');
+                return;
+            }
+
+            // --- Price data processing (using continuous index based on trading time) ---
+            const priceTimesWithGaps = [];
+            const pricesWithGaps = [];
+            const timeLabels = []; // Used to store actual time labels
+            const tickvals = []; // Used to store tick positions
+            const ticktext = []; // Used to store tick text
+            
+            // Define time gap threshold, used to identify non-continuous trading time periods
+            const gapThreshold = 30 * 60 * 1000; // 30 minutes, enough to identify lunch or overnight gap
+            let lastTradeTime = null;
+            let tradingTimeIndex = 0; // Continuous index based on trading time
+            
+            // Used to track added minute labels to avoid duplicates
+            const addedMinutes = new Set();
+
+            // First calculate the total time span to determine the tick strategy
+            const firstTradeTime = new Date(validTrades[0].time.replace(' ', 'T').substring(0, validTrades[0].time.replace(' ', 'T').indexOf('.') !== -1 ? validTrades[0].time.replace(' ', 'T').indexOf('.') + 4 : validTrades[0].time.replace(' ', 'T').length));
+            const finalTradeTime = new Date(validTrades[validTrades.length - 1].time.replace(' ', 'T').substring(0, validTrades[validTrades.length - 1].time.replace(' ', 'T').indexOf('.') !== -1 ? validTrades[validTrades.length - 1].time.replace(' ', 'T').indexOf('.') + 4 : validTrades[validTrades.length - 1].time.replace(' ', 'T').length));
+            const totalTimeSpanMinutes = (finalTradeTime - firstTradeTime) / (60 * 1000);
+            
+            // Calculate the number of simulated days
+            const totalTimeSpanDays = totalTimeSpanMinutes / (24 * 60);
+            
+            // Determine the tick display strategy based on the total time span
+            let tickInterval, tickUnit;
+            if (totalTimeSpanMinutes <= 15) {
+                tickInterval = 1; // Every minute
+                tickUnit = 'minute';
+            } else if (totalTimeSpanMinutes <= 60) {
+                tickInterval = 5; // Every 5 minutes
+                tickUnit = 'minute';
+            } else if (totalTimeSpanMinutes <= 24 * 60) {
+                tickInterval = 30; // Every 30 minutes
+                tickUnit = 'minute';
+            } else if (totalTimeSpanDays <= 1) {
+                tickInterval = 60; // Every hour
+                tickUnit = 'minute';
+            } else if (totalTimeSpanDays <= 3) {
+                tickInterval = 2 * 60; // Every 2 hours
+                tickUnit = 'hour';
+            } else if (totalTimeSpanDays <= 7) {
+                tickInterval = 4 * 60; // Every 4 hours
+                tickUnit = 'hour';
+            } else {
+                tickInterval = 24 * 60; // 每天
+                tickUnit = 'day';
+            }
+            
+            console.log(`Simulated time span: ${totalTimeSpanMinutes.toFixed(1)} minutes (${totalTimeSpanDays.toFixed(1)} days), tick interval: ${tickInterval}${tickUnit === 'minute' ? 'minutes' : tickUnit === 'hour' ? 'hours' : 'days'}`);
+
+            validTrades.forEach((trade, index) => {
+                // Convert the time string from the backend to a Date object
+                let ts = trade.time.replace(' ', 'T');
+                const dot = ts.indexOf('.');
+                if (dot !== -1) ts = ts.substring(0, dot + 4); // Truncate to milliseconds
+                const currentTradeTime = new Date(ts);
+                
+                // If it is not the first point, and the time difference between the current point and the previous point exceeds the threshold
+                if (lastTradeTime && (currentTradeTime - lastTradeTime > gapThreshold)) {
+                    // Insert a null breakpoint, which will cause the Plotly line chart to break here
+                    tradingTimeIndex += 0.1;
+                    priceTimesWithGaps.push(tradingTimeIndex);
+                    pricesWithGaps.push(null);
+                    tradingTimeIndex += 0.1;
+                }
+
+                // Add current transaction point data (using continuous trading time index)
+                priceTimesWithGaps.push(tradingTimeIndex);
+                pricesWithGaps.push(trade.price);
+                timeLabels.push(currentTradeTime);
+                
+                // Generate time labels based on the determined tick strategy
+                const minute = currentTradeTime.getMinutes();
+                const hour = currentTradeTime.getHours();
+                const day = currentTradeTime.getDate();
+                const month = currentTradeTime.getMonth() + 1;
+                
+                // Create more complex key values for multi-day simulation
+                const timeKey = tickUnit === 'day' ? 
+                    `${month}-${day}` : 
+                    `${month}-${day}-${hour}:${minute.toString().padStart(2, '0')}`;
+                
+                let shouldAddTick = false;
+                if (!addedMinutes.has(timeKey)) {
+                    if (tickUnit === 'minute') {
+                        if (tickInterval === 1) {
+                            // Display every minute
+                            shouldAddTick = true;
+                        } else if (tickInterval === 5) {
+                            // Display every 5 minutes
+                            shouldAddTick = minute % 5 === 0;
+                        } else if (tickInterval === 30) {
+                            // Display every 30 minutes
+                            shouldAddTick = minute === 0 || minute === 30;
+                        } else if (tickInterval === 60) {
+                            // Display every hour
+                            shouldAddTick = minute === 0;
+                        }
+                    } else if (tickUnit === 'hour') {
+                        // Display every 2 hours or every 4 hours
+                        const hourInterval = tickInterval / 60;
+                        shouldAddTick = minute === 0 && hour % hourInterval === 0;
+                    } else if (tickUnit === 'day') {
+                        // Display every day (only display at Open time)
+                        shouldAddTick = hour === 9 && minute === 30;
+                    }
+                }
+                
+                if (shouldAddTick) {
+                    tickvals.push(tradingTimeIndex);
+                    
+                    // Select the appropriate display format based on the time unit
+                    let timeText;
+                    if (tickUnit === 'day') {
+                        // Multi-day simulation: display month-day
+                        timeText = currentTradeTime.toLocaleDateString('zh-CN', {
+                            month: '2-digit',
+                            day: '2-digit'
+                        });
+                    } else if (tickUnit === 'hour' && totalTimeSpanDays > 1) {
+                        // Multi-day simulation hour display: display month-day hour:minute
+                        timeText = currentTradeTime.toLocaleDateString('zh-CN', {
+                            month: '2-digit',
+                            day: '2-digit'
+                        }) + ' ' + currentTradeTime.toLocaleTimeString('zh-CN', {
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        });
+                    } else {
+                        // Single-day simulation: only display hour:minute
+                        timeText = currentTradeTime.toLocaleTimeString('zh-CN', {
+                            hour: '2-digit',
+                            minute: '2-digit'
+                        });
+                    }
+                    
+                    ticktext.push(timeText);
+                    addedMinutes.add(timeKey);
+                }
+                
+                // Update the time of the previous transaction point
+                lastTradeTime = currentTradeTime;
+                
+                // Increase the index based on the actual time interval (but limit the maximum increment to avoid过度拉伸）
+                if (index < validTrades.length - 1) {
+                    const nextTrade = validTrades[index + 1];
+                    let nextTs = nextTrade.time.replace(' ', 'T');
+                    const nextDot = nextTs.indexOf('.');
+                    if (nextDot !== -1) nextTs = nextTs.substring(0, nextDot + 4);
+                    const nextTradeTime = new Date(nextTs);
+                    
+                    // Calculate the time interval (minutes)
+                    const timeGapMinutes = (nextTradeTime - currentTradeTime) / (60 * 1000);
+                    
+                    // If the time interval is less than the threshold, increase the index based on the actual time ratio, otherwise only increase a small amount
+                    if (timeGapMinutes < 30) {
+                        tradingTimeIndex += Math.min(timeGapMinutes, 5); // Maximum increment limit of 5 minutes
+                    } else {
+                        tradingTimeIndex += 1; // Only increase 1 unit when there is a large gap
+                    }
+                }
+            });
+
+            // --- Trading_volume data processing ---
+            const volumeTimeIndices = [];
+            const volumeQuantities = [];
+            const volumeTimeLabels = [];
+            
+            // Create a continuous index for Trading_volume data based on time, ensuring that every minute's Trading_volume is displayed
+            let volumeTradingTimeIndex = 0;
+            let lastVolumeTime = null;
+            
+            minuteVolumeData.forEach((v, index) => {
+                const volumeTime = new Date(v.time);
+                
+                // If it is not the first point, and the time difference between the current point and the previous point exceeds the threshold
+                if (lastVolumeTime && (volumeTime - lastVolumeTime > gapThreshold)) {
+                    // Insert a breakpoint, consistent with the price data
+                    volumeTradingTimeIndex += 0.1;
+                    volumeTimeIndices.push(volumeTradingTimeIndex);
+                    volumeQuantities.push(0); // Insert 0 Trading_volume at the breakpoint
+                    volumeTradingTimeIndex += 0.1;
+                }
+                
+                // Add the current Trading_volume data point
+                volumeTimeIndices.push(volumeTradingTimeIndex);
+                volumeQuantities.push(v.volume);
+                volumeTimeLabels.push(volumeTime);
+                
+                // Update the time of the previous Trading_volume
+                lastVolumeTime = volumeTime;
+                
+                // Increase the index based on the actual time interval (consistent with the price data processing logic)
+                if (index < minuteVolumeData.length - 1) {
+                    const nextVolume = minuteVolumeData[index + 1];
+                    const nextVolumeTime = new Date(nextVolume.time);
+                    
+                    // Calculate the time interval (minutes)
+                    const timeGapMinutes = (nextVolumeTime - volumeTime) / (60 * 1000);
+                    
+                    // If the time interval is less than the threshold, increase the index based on the actual time ratio, otherwise only increase a small amount
+                    if (timeGapMinutes < 30) {
+                        volumeTradingTimeIndex += Math.min(timeGapMinutes, 5); // Maximum increment limit of 5 minutes
+                    } else {
+                        volumeTradingTimeIndex += 1; // Only increase 1 unit when there is a large gap
+                    }
+                }
+            });
+
+            // Rebuild the plot data and layout
+            const plotData = [
+                // Layer 0: Price curve (using sequence index)
+                {
+                    x: priceTimesWithGaps,
+                    y: pricesWithGaps,
+                    type: 'scattergl',
+                    mode: 'lines',
+                    name: 'Transaction price',
+                    line: { color: 'rgb(75, 192, 192)', width: 2 },
+                    hovertemplate: '<b>price:</b> %{y}<br><b>time:</b> %{customdata}<extra></extra>',
+                    customdata: timeLabels
+                },
+                // Layer 1: Trading_volume bar chart
+                {
+                    x: volumeTimeIndices,
+                    y: volumeQuantities,
+                    type: 'bar',
+                    name: 'Trading_volume per minute',
+                    yaxis: 'y2', 
+                    marker: { color: 'rgba(150, 150, 150, 0.7)' }
+                }
+            ];
+
+            const plotLayout = {
+                title: 'Price transaction curve and Trading_volume (only display trading time)',
+                xaxis: { 
+                    title: 'Time', 
+                    tickvals: tickvals,
+                    ticktext: ticktext,
+                    tickangle: -45,
+                    autorange: true
+                },
+                yaxis: { title: 'Price', side: 'left', showgrid: true, exponentformat: 'none', autorange: true },
+                yaxis2: {
+                    title: 'Trading_volume',
+                    side: 'right',
+                    overlaying: 'y',
+                    showgrid: false,
+                    autorange: true
+                },
+                margin: { t: 40, r: 80, b: 80, l: 80 }, // Increase bottom margin to accommodate tilted time labels
+                hovermode: 'x unified',
+                bargap: 0.1
+            };
+            
+            // Use Plotly.react to efficiently update the chart
+            Plotly.react(priceChart, plotData, plotLayout);
+        });
+
+        // Other socket events and fetch remain unchanged
+        socket.on('orderbook_update', function(data) {
+            document.getElementById('last-trade').textContent = data.last_trade ? data.last_trade.toFixed(2) : '--';
+            const bidsTable = document.getElementById('bids-table').getElementsByTagName('tbody')[0];
+            bidsTable.innerHTML = '';
+            data.bids.forEach(bid => {
+                const row = bidsTable.insertRow();
+                row.insertCell(0).textContent = bid.price.toFixed(2);
+                row.insertCell(1).textContent = bid.volume;
+                row.cells[0].className = 'bid';
+            });
+            const asksTable = document.getElementById('asks-table').getElementsByTagName('tbody')[0];
+            asksTable.innerHTML = '';
+            data.asks.forEach(ask => {
+                const row = asksTable.insertRow();
+                row.insertCell(0).textContent = ask.price.toFixed(2);
+                row.insertCell(1).textContent = ask.volume;
+                row.cells[0].className = 'ask';
+            });
+        });
+        socket.on('news_update', function(news) {
+            const newsContent = document.getElementById('news-content');
+            newsContent.innerHTML = '';
+            if (news && news.length > 0) {
+                news.forEach(item => {
+                    const newsItem = document.createElement('div');
+                    newsItem.className = 'news-item';
+                    newsItem.innerHTML = `<strong>${item.headline}</strong><p>${item.body}</p>`;
+                    newsContent.appendChild(newsItem);
+                });
+            } else {
+                newsContent.innerHTML = '<p>No news available.</p>';
+            }
+        });
+        fetch('/api/orderbook').then(res => res.json()).then(data => socket.emit('orderbook_update', data));
+        fetch('/api/trade_history').then(res => res.json()).then(data => socket.emit('trade_history_update', data));
+        fetch('/api/minute_volume').then(res => res.json()).then(data => socket.emit('minute_volume_update', data));
+        fetch('/api/news').then(res => res.json()).then(data => socket.emit('news_update', data));
+    </script>
+</body>
+</html>
