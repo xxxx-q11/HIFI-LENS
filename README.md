@@ -55,10 +55,10 @@ The main simulation script accepts the following arguments:
 
 HIFI-LENS simulates multiple types of trading agents:
 
-- **LLM Agents**: Intelligent institutional investors powered by Large Language Models
+- **LLM Agents(Manager Agents)**: Intelligent institutional investors powered by Large Language Models
 - **Noise Agents**: 12,000 agents representing retail traders with random behavior
 - **Value Agents**: 100 agents that trade based on fundamental value analysis
-- **Trade Agents**: 2,950 agents representing algorithmic trading systems
+- **Trade Agents**: 2,950 agents guided by Manager Agents
 - **Market Maker Agents**: Adaptive market makers providing liquidity
 - **Momentum Agents**: 50 agents that follow price momentum trends
 
@@ -66,8 +66,7 @@ HIFI-LENS simulates multiple types of trading agents:
 
 - **Exchange Agent**: NASDAQ-like continuous double auction market
 - **Order Book**: Nanosecond-resolution order matching
-- **Latency Model**: Realistic network delays between agents
-- **Oracle**: LLM-powered fundamental data provider
+- **Oracle**: LLM-powered data provider
 
 ## 🔧 Configuration
 
@@ -92,7 +91,6 @@ Key simulation parameters can be adjusted in the configuration files:
 - **Market Hours**: 09:30:00 - 16:00:00 (configurable)
 - **Starting Cash**: $10,000,000 per agent
 - **Market Maker Parameters**: POV, spread settings, wake-up frequency
-- **Fundamental Volatility**: Configurable price volatility
 
 ## 📊 Output and Analysis
 
@@ -115,9 +113,10 @@ The simulation generates comprehensive market data including:
 
 Enable caching to improve performance and reduce API costs:
 ```bash
---enable-llm-cache --llm-cache-file llm_cache.json
+python -u abides.py -c rsmtry_LLM3 -t JNJ -d 20250402 -s 1234 -l rmsctry_LLM3 --enable-llm-cache
 ```
-
+If the llm_cache.json file does not exist, create the file and save the return result and its status after each invocation of the Manager Agents for breakpoint recovery
+If the file already exists, the previous experiment can be reproduced
 ### Multiple Trading Days
 
 The system supports simulating multiple consecutive trading days:
