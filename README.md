@@ -1,5 +1,5 @@
 
-# HIFI-LENS: High-Fidelity Large-Scale Market Simulation Framework
+# HIFI-LENS: a HIgh-FIdelity LLM-Empowered Nano-scale Stock market simulation framework
 
 > Stock markets are complex adaptive systems whose dynamics emerge from decentralized interactions among diverse participants responding to an ever-shifting informational landscape. Despite decades of progress, existing simulation frameworks remain constrained by either low behavioral fidelity, due to non-intelligent agents, or low structural fidelity, due to oversimplified trading mechanisms. To bridge this gap, we introduce HIFI-LENS, a large-scale simulation framework that integrates structural realism with generative agent intelligence. HIFI-LENS captures market complexity across three interconnected levels: (i) at the micro-level, it simulates over 15k heterogeneous agents, featuring a novel hierarchical architecture for LLM-powered institutional investors; (ii) at the meso-level, these agents interact in a nanosecond-resolution, NASDAQ-like continuous double auction market; and (iii) at the macro-level, their behavior is grounded in a rich information stream of both endogenous market data and over 12k real-world news articles and reports. We validate HIFI-LENS across eight GICS sectors and three representative real-world scenarios, showing that it not only reproduces five key stylized facts, but also accurately tracks real-world high-frequency price dynamics with an average MAPE of 3.48%. Our work paves the way for a new generation of market simulation, enabling high-fidelity studies of emergent phenomena, policy impacts, and AI-in-the-market dynamics.
 
@@ -98,7 +98,6 @@ The simulation generates comprehensive market data including:
 
 - **Order Book Data**: Bid/ask prices and volumes
 - **Trade Data**: Transaction records with timestamps
-- **Agent Logs**: Individual agent trading behavior
 - **Market Statistics**: Volume, volatility, and price dynamics
 
 ### Visualization Tools
