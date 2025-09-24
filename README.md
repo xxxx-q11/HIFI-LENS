@@ -15,7 +15,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/xxxx-q11/MarketSim
-   cd HIFI_LENS
+   cd MarketSim
    ```
 
 2. **Install dependencies:**
