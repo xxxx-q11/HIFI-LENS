@@ -14,7 +14,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/zhentao-liu-JLU/HIFI_LENS.git
+   git clone https://github.com/xxxx-q11/HIFI-LENS
    cd HIFI_LENS
    ```
 
@@ -122,6 +122,24 @@ The system supports simulating multiple consecutive trading days:
 ```python
 trading_days = ["2025-04-02", "2025-04-03", "2025-04-04"]
 ```
+### Dashboard Features
+
+The real-time visualization interface includes:
+
+- **Live Order Book Display**: Real-time bid/ask prices and volumes with top 5 levels
+- **Price Movement Chart**: Interactive price-time series with minute-level volume bars
+- **News Feed Integration**: Live news updates affecting market sentiment
+- **Trading Hours Filtering**: Automatic filtering to display only active trading periods
+- **Multi-day Simulation Support**: Seamless visualization across multiple trading days
+
+### Interface Screenshots
+```bash
+http://localhost:8504
+```
+![Real-time Order Book Interface](docs/images/orderbook_interface.png)
+*Real-time order book display showing bid/ask levels and latest trade price*
+
+
 
 ## �� Project Structure
 
